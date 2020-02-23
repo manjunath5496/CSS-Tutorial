@@ -4,6 +4,69 @@
 <p>The name&nbsp;<em>cascading</em>&nbsp;comes from the specified priority scheme to determine which style rule applies if more than one rule matches a particular element. This cascading priority scheme is predictable.</p>
 <p>The CSS specifications are maintained by the&nbsp;<a title="World Wide Web Consortium" href="https://en.wikipedia.org/wiki/World_Wide_Web_Consortium">World Wide Web Consortium</a>&nbsp;(W3C). Internet media type (<a class="mw-redirect" title="MIME media type" href="https://en.wikipedia.org/wiki/MIME_media_type">MIME type</a>)&nbsp;<code>text/css</code>&nbsp;is registered for use with CSS by&nbsp;<a class="external mw-magiclink-rfc" href="https://tools.ietf.org/html/rfc2318" rel="nofollow">RFC 2318</a>&nbsp;(March 1998). The W3C operates a free&nbsp;<a title="W3C Markup Validation Service" href="https://en.wikipedia.org/wiki/W3C_Markup_Validation_Service#CSS_validation">CSS validation service</a>&nbsp;for CSS documents.</p>
 <p>In addition to HTML, other markup languages support the use of CSS including&nbsp;<a title="XHTML" href="https://en.wikipedia.org/wiki/XHTML">XHTML</a>,&nbsp;<a title="Plain Old XML" href="https://en.wikipedia.org/wiki/Plain_Old_XML">plain XML</a>,&nbsp;<a title="Scalable Vector Graphics" href="https://en.wikipedia.org/wiki/Scalable_Vector_Graphics">SVG</a>, and&nbsp;<a title="XUL" href="https://en.wikipedia.org/wiki/XUL">XUL</a>.</p>
+</br>
+
+<table class="infobox">
+<tbody>
+<tr>
+<td colspan="2"><a class="image" href="CSS3_logo.png"><img src="CSS3_logo.png" srcset="CSS3_logo.png" alt="CSS3 logo and wordmark.svg" width="150" height="212" data-file-width="363" data-file-height="512" /></a></td>
+</tr>
+<tr>
+<th scope="row"><a title="" href="https://en.wikipedia.org/wiki/Filename_extension">Filename extension</a></th>
+<td><code>.css</code></td>
+</tr>
+<tr>
+<th scope="row"><a title="Media type" href="https://en.wikipedia.org/wiki/Media_type">Internet media&nbsp;type</a></th>
+<td><code>text/css</code></td>
+</tr>
+<tr>
+<th scope="row"><a title="Uniform Type Identifier" href="https://en.wikipedia.org/wiki/Uniform_Type_Identifier">Uniform Type Identifier&nbsp;(UTI)</a></th>
+<td>public.css</td>
+</tr>
+<tr>
+<th scope="row">Developed&nbsp;by</th>
+<td>
+<div class="hlist hlist-separated">
+<ul>
+<li><a title="H&aring;kon Wium Lie" href="https://en.wikipedia.org/wiki/H%C3%A5kon_Wium_Lie">H&aring;kon Wium Lie</a></li>
+<li><a title="Bert Bos" href="https://en.wikipedia.org/wiki/Bert_Bos">Bert Bos</a></li>
+<li><a title="World Wide Web Consortium" href="https://en.wikipedia.org/wiki/World_Wide_Web_Consortium">World Wide Web Consortium</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row">Initial release</th>
+<td>December&nbsp;17, 1996<span class="noprint">; 23 years ago</span></td>
+</tr>
+<tr>
+<th scope="row">Type of format</th>
+<td><a title="Style sheet language" href="https://en.wikipedia.org/wiki/Style_sheet_language">Style sheet language</a></td>
+</tr>
+<tr>
+<th scope="row"><a title="International standard" href="https://en.wikipedia.org/wiki/International_standard">Standards</a></th>
+<td>
+<div class="plainlist nowrap">
+<ul>
+<li><a class="external text" href="http://www.w3.org/TR/1999/REC-CSS1-19990111" rel="nofollow">Level 1&nbsp;(Recommendation)</a></li>
+<li><a class="external text" href="http://www.w3.org/TR/2008/REC-CSS2-20080411/" rel="nofollow">Level 2&nbsp;(ditto)</a></li>
+<li><a class="external text" href="http://www.w3.org/TR/2011/REC-CSS2-20110607/" rel="nofollow">Level 2 Revision 1&nbsp;(ditto)</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row">Website</th>
+<td><span class="url"><a class="external text" href="https://www.w3.org/Style/CSS/" rel="nofollow">www<wbr />.w3<wbr />.org<wbr />/Style<wbr />/CSS<wbr />/</a></span></td>
+</tr>
+</tbody>
+</table>
+
+
+
+
+
+</br>
 <div class="toctitle" dir="ltr" lang="en">
 <h2 id="mw-toc-heading">Contents</h2>
 <label class="toctogglelabel" for="toctogglecheckbox"></label></div>
