@@ -61,8 +61,72 @@
 </tr>
 </tbody>
 </table>
-
-
+</br>
+<table class="vertical-navbox nowraplinks">
+<tbody>
+<tr>
+<th class="navbox-title"><a class="extiw" title="b:Cascading Style Sheets" href="https://en.wikibooks.org/wiki/Cascading_Style_Sheets">Cascading Style Sheets</a></th>
+</tr>
+<tr>
+<td class="hlist">
+<ul>
+<li><a title="Style sheet (web development)" href="https://en.wikipedia.org/wiki/Style_sheet_(web_development)">Style sheet</a></li>
+<li><a title="CSS Zen Garden" href="https://en.wikipedia.org/wiki/CSS_Zen_Garden">CSS Zen Garden</a></li>
+<li><em><a title="The Zen of CSS Design" href="https://en.wikipedia.org/wiki/The_Zen_of_CSS_Design">The Zen of CSS Design</a></em></li>
+</ul>
+</td>
+</tr>
+<tr>
+<th class="navbox-abovebelow">Concepts</th>
+</tr>
+<tr>
+<td class="hlist">
+<ul>
+<li><a title="CSS box model" href="https://en.wikipedia.org/wiki/CSS_box_model">box model</a></li>
+<li><a title="CSS image replacement" href="https://en.wikipedia.org/wiki/CSS_image_replacement">image replacement</a></li>
+<li><a title="CSS Flexible Box Layout" href="https://en.wikipedia.org/wiki/CSS_Flexible_Box_Layout">flexbox</a></li>
+<li><a title="CSS grid layout" href="https://en.wikipedia.org/wiki/CSS_grid_layout">grid</a></li>
+</ul>
+</td>
+</tr>
+<tr>
+<th class="navbox-abovebelow">Philosophies</th>
+</tr>
+<tr>
+<td class="hlist">
+<ul>
+<li><a title="Tableless web design" href="https://en.wikipedia.org/wiki/Tableless_web_design">Tableless</a></li>
+<li><a title="Responsive web design" href="https://en.wikipedia.org/wiki/Responsive_web_design">Responsive</a></li>
+<li><a title="Holy grail (web design)" href="https://en.wikipedia.org/wiki/Holy_grail_(web_design)">"Holy grail"</a></li>
+</ul>
+</td>
+</tr>
+<tr>
+<th class="navbox-abovebelow">Tools</th>
+</tr>
+<tr>
+<td class="hlist">
+<ul>
+<li><a title="Sass (stylesheet language)" href="https://en.wikipedia.org/wiki/Sass_(stylesheet_language)">Sass</a></li>
+<li><a title="Less (stylesheet language)" href="https://en.wikipedia.org/wiki/Less_(stylesheet_language)">Less</a></li>
+<li><a title="Stylus (stylesheet language)" href="https://en.wikipedia.org/wiki/Stylus_(stylesheet_language)">Stylus</a></li>
+<li><a title="CSSTidy" href="https://en.wikipedia.org/wiki/CSSTidy">CSSTidy</a></li>
+</ul>
+</td>
+</tr>
+<tr>
+<th class="navbox-abovebelow">Comparisons</th>
+</tr>
+<tr>
+<td class="hlist">
+<ul>
+<li><a title="Comparison of browser engines (CSS support)" href="https://en.wikipedia.org/wiki/Comparison_of_browser_engines_(CSS_support)">CSS support</a></li>
+<li><a title="Comparison of stylesheet languages" href="https://en.wikipedia.org/wiki/Comparison_of_stylesheet_languages">Stylesheet languages</a></li>
+</ul>
+</td>
+</tr>
+</tbody>
+</table>
 
 
 
