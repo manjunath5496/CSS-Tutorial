@@ -571,6 +571,33 @@ Practical Experiences and a Look Ahead</a></li>
 
 </br>
 <p>CSS was first proposed by&nbsp;<a title="H&aring;kon Wium Lie" href="https://en.wikipedia.org/wiki/H%C3%A5kon_Wium_Lie">H&aring;kon Wium Lie</a>&nbsp;on October 10, 1994.&nbsp;At the time, Lie was working with&nbsp;<a title="Tim Berners-Lee" href="https://en.wikipedia.org/wiki/Tim_Berners-Lee">Tim Berners-Lee</a>&nbsp;at&nbsp;<a title="CERN" href="https://en.wikipedia.org/wiki/CERN">CERN</a>.&nbsp;Several other style sheet languages for the web were proposed around the same time, and discussions on public mailing lists and inside&nbsp;<a title="World Wide Web Consortium" href="https://en.wikipedia.org/wiki/World_Wide_Web_Consortium">World Wide Web Consortium</a>&nbsp;resulted in the first W3C CSS Recommendation (CSS1) being released in 1996. In particular, a proposal by&nbsp;<a title="Bert Bos" href="https://en.wikipedia.org/wiki/Bert_Bos">Bert Bos</a>&nbsp;was influential; he became co-author of CSS1, and is regarded as co-creator of CSS.</p>
+</br>
+
+<div class="thumb tright">
+<div class="thumbinner"><a class="image" href="bos.png"><img class="thumbimage" src="bos.png" srcset="bos.png" alt="" width="170" height="227" data-file-width="1920" data-file-height="2560" /></a>
+<div class="thumbcaption">
+<div class="magnify">&nbsp;</div>
+<strong><a title="Gijsbert (Bert) Bos " href="https://en.wikipedia.org/wiki/Bert_Bos">Gijsbert (Bert) Bos </a>, computer scientist known for the development of Argo, a web browser he developed as test application for his style sheet proposal.</strong></div>
+<div class="thumbcaption">&nbsp;</div>
+</div>
+</div>
+</br>
+
+
+<p><strong>Publications:</strong></p>
+<hr>
+<ul>
+<li><a href="https://github.com/manjunath5496/CSS-Tutorial/blob/master/lie(9).pdf">Rapid user interface development with the script language Gist</a></li>
+<li><a href="https://github.com/manjunath5496/CSS-Tutorial/blob/master/lie(10).pdf"> The significance of user-interfaces for historical software</a></li>
+</ul>
+</br>
+
+
+
+
+
+
+
 <p>Style sheets have existed in one form or another since the beginnings of Standard Generalized Markup Language (<a class="mw-redirect" title="SGML" href="https://en.wikipedia.org/wiki/SGML">SGML</a>) in the 1980s, and CSS was developed to provide style sheets for the web.&nbsp;One requirement for a web style sheet language was for style sheets to come from different sources on the web. Therefore, existing style sheet languages like&nbsp;<a title="Document Style Semantics and Specification Language" href="https://en.wikipedia.org/wiki/Document_Style_Semantics_and_Specification_Language">DSSSL</a>&nbsp;and&nbsp;<a title="Formatting Output Specification Instance" href="https://en.wikipedia.org/wiki/Formatting_Output_Specification_Instance">FOSI</a>&nbsp;were not suitable. CSS, on the other hand, let a document's style be influenced by multiple style sheets by way of "cascading" styles.</p>
 <p>As HTML grew, it came to encompass a wider variety of stylistic capabilities to meet the demands of&nbsp;<a title="Web development" href="https://en.wikipedia.org/wiki/Web_development">web developers</a>. This evolution gave the designer more control over site appearance, at the cost of more complex HTML. Variations in&nbsp;<a title="Web browser" href="https://en.wikipedia.org/wiki/Web_browser">web browser</a>&nbsp;implementations, such as&nbsp;<a title="ViolaWWW" href="https://en.wikipedia.org/wiki/ViolaWWW">ViolaWWW</a>&nbsp;and&nbsp;<a title="WorldWideWeb" href="https://en.wikipedia.org/wiki/WorldWideWeb">WorldWideWeb</a>,&nbsp;made consistent site appearance difficult, and users had less control over how web content was displayed. The browser/editor developed by Tim Berners-Lee had style sheets that were hard-coded into the program. The style sheets could therefore not be linked to documents on the web.<span style="font-size: xx-small;">&nbsp;</span><a title="Robert Cailliau" href="https://en.wikipedia.org/wiki/Robert_Cailliau">Robert Cailliau</a>, also of CERN, wanted to separate the structure from the presentation so that different style sheets could describe different presentation for printing, screen-based presentations, and editors.</p>
 <p>Improving web presentation capabilities was a topic of interest to many in the web community and nine different style sheet languages were proposed on the www-style mailing list.&nbsp;Of these nine proposals, two were especially influential on what became CSS: Cascading HTML Style Sheets&nbsp;and Stream-based Style Sheet Proposal (SSP).&nbsp;Two browsers served as testbeds for the initial proposals; Lie worked with&nbsp;<a class="new" title="Yves Lafon (page does not exist)" href="https://en.wikipedia.org/w/index.php?title=Yves_Lafon&amp;action=edit&amp;redlink=1">Yves Lafon</a>&nbsp;to implement CSS in&nbsp;<a title="Dave Raggett" href="https://en.wikipedia.org/wiki/Dave_Raggett">Dave Raggett</a>'s&nbsp;<a title="Arena (web browser)" href="https://en.wikipedia.org/wiki/Arena_(web_browser)">Arena</a>&nbsp;browser.&nbsp;Bert Bos implemented his own SSP proposal in the&nbsp;<a title="Argo (web browser)" href="https://en.wikipedia.org/wiki/Argo_(web_browser)">Argo</a>&nbsp;browser.&nbsp;Thereafter, Lie and Bos worked together to develop the CSS standard (the 'H' was removed from the name because these style sheets could also be applied to other markup languages besides HTML).</p>
