@@ -4,8 +4,6 @@
 <p>The name&nbsp;<em>cascading</em>&nbsp;comes from the specified priority scheme to determine which style rule applies if more than one rule matches a particular element. This cascading priority scheme is predictable.</p>
 <p>The CSS specifications are maintained by the&nbsp;<a title="World Wide Web Consortium" href="https://en.wikipedia.org/wiki/World_Wide_Web_Consortium">World Wide Web Consortium</a>&nbsp;(W3C). Internet media type (<a class="mw-redirect" title="MIME media type" href="https://en.wikipedia.org/wiki/MIME_media_type">MIME type</a>)&nbsp;<code>text/css</code>&nbsp;is registered for use with CSS by&nbsp;<a class="external mw-magiclink-rfc" href="https://tools.ietf.org/html/rfc2318" rel="nofollow">RFC 2318</a>&nbsp;(March 1998). The W3C operates a free&nbsp;<a title="W3C Markup Validation Service" href="https://en.wikipedia.org/wiki/W3C_Markup_Validation_Service#CSS_validation">CSS validation service</a>&nbsp;for CSS documents.</p>
 <p>In addition to HTML, other markup languages support the use of CSS including&nbsp;<a title="XHTML" href="https://en.wikipedia.org/wiki/XHTML">XHTML</a>,&nbsp;<a title="Plain Old XML" href="https://en.wikipedia.org/wiki/Plain_Old_XML">plain XML</a>,&nbsp;<a title="Scalable Vector Graphics" href="https://en.wikipedia.org/wiki/Scalable_Vector_Graphics">SVG</a>, and&nbsp;<a title="XUL" href="https://en.wikipedia.org/wiki/XUL">XUL</a>.</p>
-</br>
-
 <div class="toctitle" dir="ltr" lang="en">
 <h2 id="mw-toc-heading">Contents</h2>
 <label class="toctogglelabel" for="toctogglecheckbox"></label></div>
@@ -67,18 +65,6 @@
 </ul>
 </li>
 </ul>
-
-
-</br>
-
-
-
-
-
-
-
-
-
 <h2><span id="Syntax" class="mw-headline">Syntax</span></h2>
 <p>CSS has a simple&nbsp;<a title="Syntax" href="https://en.wikipedia.org/wiki/Syntax">syntax</a>&nbsp;and uses a number of English keywords to specify the names of various style properties.</p>
 <p>A style sheet consists of a list of&nbsp;<em>rules</em>. Each rule or rule-set consists of one or more&nbsp;<em>selectors</em>, and a&nbsp;<em>declaration block</em>.</p>
@@ -322,9 +308,9 @@
 <p>A declaration block consists of a list of&nbsp;<em>declarations</em>&nbsp;in braces. Each declaration itself consists of a&nbsp;<em>property</em>, a colon (<code>:</code>), and a&nbsp;<em>value</em>. If there are multiple declarations in a block, a semi-colon (<code>;</code>) must be inserted to separate each declaration.</p>
 <p>Properties are specified in the CSS standard. Each property has a set of possible values. Some properties can affect any type of element, and others apply only to particular groups of elements.</p>
 <p>Values may be keywords, such as "center" or "inherit", or numerical values, such as&nbsp;<code id="" class="mw-highlight" dir="ltr">200px</code>&nbsp;(200 pixels),&nbsp;<code id="" class="mw-highlight" dir="ltr">50vw</code>&nbsp;(50 percent of the viewport width) or&nbsp;<span class="monospaced">80%</span>&nbsp;(80 percent of the parent element's width). Color values can be specified with keywords (e.g. "<code id="" class="mw-highlight" dir="ltr">red</code>"), hexadecimal values (e.g.&nbsp;<code id="" class="mw-highlight" dir="ltr">#FF0000</code>, also abbreviated as&nbsp;<code id="" class="mw-highlight" dir="ltr">#F00</code>), RGB values on a 0 to 255 scale (e.g.&nbsp;<code><code id="" class="mw-highlight" dir="ltr">rgb(255, 0, 0)</code></code>), RGBA values that specify both color and alpha transparency (e.g.&nbsp;<code id="" class="mw-highlight" dir="ltr">rgba(255, 0, 0, 0.8)</code>), or HSL or HSLA values (e.g.&nbsp;<code id="" class="mw-highlight" dir="ltr">hsl(000, 100%, 50%)</code>,&nbsp;<code id="" class="mw-highlight" dir="ltr">hsla(000, 100%, 50%, 80%)</code>).</p>
-<h4><span id="Length_units" class="mw-headline">Length units</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Edit section: Length units" href="https://en.wikipedia.org/w/index.php?title=Cascading_Style_Sheets&amp;action=edit&amp;section=4">edit</a><span class="mw-editsection-bracket">]</span></span></h4>
+<h4><span id="Length_units" class="mw-headline">Length units</span></h4>
 <p>Non-zero numeric values representing linear measures must include a length unit, which is either an alphabetic code or abbreviation, as in&nbsp;<code>200px</code>&nbsp;or&nbsp;<code>50vw</code>; or a percentage sign, as in&nbsp;<code>80%</code>. Some units &ndash;&nbsp;<code>cm</code>&nbsp;(<a title="Centimetre" href="https://en.wikipedia.org/wiki/Centimetre">centimetre</a>);&nbsp;<code>in</code>&nbsp;(<a title="Inch" href="https://en.wikipedia.org/wiki/Inch">inch</a>);&nbsp;<code>mm</code>&nbsp;(<a title="Millimetre" href="https://en.wikipedia.org/wiki/Millimetre">millimetre</a>);&nbsp;<code>pc</code>&nbsp;(<a title="Pica (typography)" href="https://en.wikipedia.org/wiki/Pica_(typography)">pica</a>); and&nbsp;<code>pt</code>&nbsp;(<a title="Point (typography)" href="https://en.wikipedia.org/wiki/Point_(typography)">point</a>) &ndash; are&nbsp;<em>absolute</em>, which means that the rendered dimension does not depend upon the structure of the page; others &ndash;&nbsp;<code>em</code>&nbsp;(<a title="Em (typography)" href="https://en.wikipedia.org/wiki/Em_(typography)">em</a>);&nbsp;<code>ex</code>&nbsp;(<a class="mw-redirect" title="Ex (typography)" href="https://en.wikipedia.org/wiki/Ex_(typography)">ex</a>) and&nbsp;<code>px</code>&nbsp;(<a title="Pixel" href="https://en.wikipedia.org/wiki/Pixel">pixel</a>) &ndash; are&nbsp;<em>relative</em>, which means that factors such as the font size of a parent element can affect the rendered measurement. These eight units were a feature of CSS 1&nbsp;and retained in all subsequent revisions. The proposed CSS Values and Units Module Level 3 will, if adopted as a W3C Recommendation, provide seven further length units:&nbsp;<code>ch</code>;&nbsp;<code>Q</code>;&nbsp;<code>rem</code>;&nbsp;<code>vh</code>;&nbsp;<code>vmax</code>;&nbsp;<code>vmin</code>; and&nbsp;<code>vw</code>.</p>
-<h3><span id="Use" class="mw-headline">Use</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Edit section: Use" href="https://en.wikipedia.org/w/index.php?title=Cascading_Style_Sheets&amp;action=edit&amp;section=5">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<h3><span id="Use" class="mw-headline">Use</span></h3>
 <p>Before CSS, nearly all presentational attributes of HTML documents were contained within the HTML markup. All font colors, background styles, element alignments, borders and sizes had to be explicitly described, often repeatedly, within the HTML. CSS lets authors move much of that information to another file, the style sheet, resulting in considerably simpler HTML.</p>
 <p>For example, headings (<code>h1</code>&nbsp;elements), sub-headings (<code>h2</code>), sub-sub-headings (<code>h3</code>), etc., are defined structurally using HTML. In print and on the screen, choice of&nbsp;<a title="Typeface" href="https://en.wikipedia.org/wiki/Typeface">font</a>,&nbsp;<a title="Point (typography)" href="https://en.wikipedia.org/wiki/Point_(typography)">size</a>,&nbsp;<a title="Color" href="https://en.wikipedia.org/wiki/Color">color</a>&nbsp;and&nbsp;<a title="Emphasis (typography)" href="https://en.wikipedia.org/wiki/Emphasis_(typography)">emphasis</a>&nbsp;for these elements is&nbsp;<em>presentational</em>.</p>
 <p>Before CSS, document authors who wanted to assign such&nbsp;<a title="Typography" href="https://en.wikipedia.org/wiki/Typography">typographic</a>&nbsp;characteristics to, say, all&nbsp;<code>h2</code>&nbsp;headings had to repeat HTML presentational markup for each occurrence of that heading type. This made documents more complex, larger, and more error-prone and difficult to maintain. CSS allows the separation of presentation from structure. CSS can define color, font, text alignment, size, borders, spacing, layout and many other typographic characteristics, and can do so independently for on-screen and printed views. CSS also defines non-visual styles, such as reading speed and emphasis for aural text readers. The&nbsp;<a class="mw-redirect" title="W3C" href="https://en.wikipedia.org/wiki/W3C">W3C</a>&nbsp;has now&nbsp;<a title="Deprecation" href="https://en.wikipedia.org/wiki/Deprecation">deprecated</a>&nbsp;the use of all presentational HTML markup.</p>
@@ -560,7 +546,8 @@
 <div class="thumbinner"><a class="image" href="https://en.wikipedia.org/wiki/File:H%C3%A5kon_Wium_Lie.jpg"><img class="thumbimage" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/H%C3%A5kon_Wium_Lie.jpg/170px-H%C3%A5kon_Wium_Lie.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/54/H%C3%A5kon_Wium_Lie.jpg/255px-H%C3%A5kon_Wium_Lie.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/54/H%C3%A5kon_Wium_Lie.jpg/340px-H%C3%A5kon_Wium_Lie.jpg 2x" alt="" width="170" height="227" data-file-width="1920" data-file-height="2560" /></a>
 <div class="thumbcaption">
 <div class="magnify">&nbsp;</div>
-<a title="H&aring;kon Wium Lie" href="https://en.wikipedia.org/wiki/H%C3%A5kon_Wium_Lie">H&aring;kon Wium Lie</a>, chief technical officer of the Opera Software company and co-creator of the CSS web standards</div>
+<strong><a title="H&aring;kon Wium Lie" href="https://en.wikipedia.org/wiki/H%C3%A5kon_Wium_Lie">H&aring;kon Wium Lie</a>, chief technical officer of the Opera Software company and co-creator of the CSS web standards</strong></div>
+<div class="thumbcaption">&nbsp;</div>
 </div>
 </div>
 <p>CSS was first proposed by&nbsp;<a title="H&aring;kon Wium Lie" href="https://en.wikipedia.org/wiki/H%C3%A5kon_Wium_Lie">H&aring;kon Wium Lie</a>&nbsp;on October 10, 1994.&nbsp;At the time, Lie was working with&nbsp;<a title="Tim Berners-Lee" href="https://en.wikipedia.org/wiki/Tim_Berners-Lee">Tim Berners-Lee</a>&nbsp;at&nbsp;<a title="CERN" href="https://en.wikipedia.org/wiki/CERN">CERN</a>.&nbsp;Several other style sheet languages for the web were proposed around the same time, and discussions on public mailing lists and inside&nbsp;<a title="World Wide Web Consortium" href="https://en.wikipedia.org/wiki/World_Wide_Web_Consortium">World Wide Web Consortium</a>&nbsp;resulted in the first W3C CSS Recommendation (CSS1) being released in 1996. In particular, a proposal by&nbsp;<a title="Bert Bos" href="https://en.wikipedia.org/wiki/Bert_Bos">Bert Bos</a>&nbsp;was influential; he became co-author of CSS1, and is regarded as co-creator of CSS.</p>
@@ -597,8 +584,7 @@
 <p>CSS 2.1 went to Proposed Recommendation on 12 April 2011.&nbsp;After being reviewed by the W3C Advisory Committee, it was finally published as a W3C Recommendation on 7 June 2011.</p>
 <p>CSS 2.1 was planned as the first and final revision of level 2&mdash;but low priority work on CSS 2.2 began in 2015.</p>
 <h4><span id="CSS_3" class="mw-headline">CSS 3</span></h4>
-<div class="thumb tright">&nbsp;</div>
-<p>Unlike CSS&nbsp;2, which is a large single specification defining various features, CSS&nbsp;3 is divided into several separate documents called "modules". Each module adds new capabilities or extends features defined in CSS&nbsp;2, preserving backward compatibility. Work on CSS level 3 started around the time of publication of the original CSS&nbsp;2 recommendation. The earliest CSS&nbsp;3 drafts were published in June 1999.</p>
+<div class="thumb tright">&nbsp;Unlike CSS&nbsp;2, which is a large single specification defining various features, CSS&nbsp;3 is divided into several separate documents called "modules". Each module adds new capabilities or extends features defined in CSS&nbsp;2, preserving backward compatibility. Work on CSS level 3 started around the time of publication of the original CSS&nbsp;2 recommendation. The earliest CSS&nbsp;3 drafts were published in June 1999.</div>
 <p>Due to the modularization, different modules have different stability and statuses.</p>
 <p>Some modules have&nbsp;<em><a class="mw-redirect" title="W3C Recommendation" href="https://en.wikipedia.org/wiki/W3C_Recommendation#Candidate_Recommendation_(CR)">Candidate Recommendation</a></em>&nbsp;(<em>CR</em>) status and are considered moderately stable. At&nbsp;<em>CR</em>&nbsp;stage, implementations are advised to drop vendor prefixes.</p>
 <table class="wikitable sortable jquery-tablesorter"><caption>Summary of main module-specifications</caption>
@@ -743,19 +729,19 @@
 <dl>
 <dt>Separation of content from presentation</dt>
 <dd>
-<div class="hatnote navigation-not-searchable">Main article:&nbsp;<a class="mw-redirect" title="Separation of presentation and content" href="https://en.wikipedia.org/wiki/Separation_of_presentation_and_content">Separation of presentation and content</a></div>
+<div class="hatnote navigation-not-searchable">&nbsp;</div>
 </dd>
 <dd>CSS facilitates publication of content in multiple presentation formats based on nominal parameters. Nominal parameters include explicit user preferences, different web browsers, the type of device being used to view the content (a desktop computer or mobile device), the geographic location of the user and many other variables.</dd>
 <dt>Site-wide consistency</dt>
 <dd>
-<div class="hatnote navigation-not-searchable">Main article:&nbsp;<a title="Style sheet (web development)" href="https://en.wikipedia.org/wiki/Style_sheet_(web_development)">Style sheet (web development)</a></div>
+<div class="hatnote navigation-not-searchable">&nbsp;</div>
 </dd>
 <dd>When CSS is used effectively, in terms of inheritance and "cascading", a global style sheet can be used to affect and style elements site-wide. If the situation arises that the styling of the elements should be changed or adjusted, these changes can be made by editing rules in the global style sheet. Before CSS, this sort of maintenance was more difficult, expensive and time-consuming.</dd>
 <dt>Bandwidth</dt>
 <dd>A stylesheet, internal or external, specifies the style once for a range of HTML elements selected by&nbsp;<code>class</code>, type or relationship to others. This is much more efficient than repeating style information inline for each occurrence of the element. An external stylesheet is usually stored in the&nbsp;<a class="mw-redirect" title="Browser cache" href="https://en.wikipedia.org/wiki/Browser_cache">browser cache</a>, and can therefore be used on multiple pages without being reloaded, further reducing data transfer over a network.</dd>
 <dt>Page reformatting</dt>
 <dd>
-<div class="hatnote navigation-not-searchable">Main article:&nbsp;<a title="Progressive enhancement" href="https://en.wikipedia.org/wiki/Progressive_enhancement">Progressive enhancement</a></div>
+<div class="hatnote navigation-not-searchable">&nbsp;</div>
 </dd>
 <dd>With a simple change of one line, a different style sheet can be used for the same page. This has advantages for accessibility, as well as providing the ability to tailor a page or site to different target devices. Furthermore, devices not able to understand the styling still display the content.</dd>
 <dt>Accessibility</dt>
