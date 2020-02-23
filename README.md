@@ -65,7 +65,7 @@
 <table class="vertical-navbox nowraplinks">
 <tbody>
 <tr>
-<th class="navbox-title"><a class="extiw" title="b:Cascading Style Sheets" href="https://en.wikibooks.org/wiki/Cascading_Style_Sheets">Cascading Style Sheets</a></th>
+<th class="navbox-title"><img title="Wikibooks page" src="wiki.png" srcset="wiki.png" alt="Wikibooks page" width="16" height="16" data-file-width="300" data-file-height="300" />&nbsp;<a class="extiw" title="b:Cascading Style Sheets" href="https://en.wikibooks.org/wiki/Cascading_Style_Sheets">Cascading Style Sheets</a></th>
 </tr>
 <tr>
 <td class="hlist">
