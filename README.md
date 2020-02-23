@@ -574,7 +574,7 @@ Practical Experiences and a Look Ahead</a></li>
 </br>
 
 <div class="thumb tright">
-<div class="thumbinner"><a class="image" href="bos.png"><img class="thumbimage" src="bos.png" srcset="bos.png" alt="" width="170" height="227" data-file-width="1920" data-file-height="2560" /></a>
+<div class="thumbinner"><a class="image" href="bos.png"><img class="thumbimage" src="bos.png" srcset="bos.png" alt="" width="270" height="270" data-file-width="1920" data-file-height="2560" /></a>
 <div class="thumbcaption">
 <div class="magnify">&nbsp;</div>
 <strong><a title="Gijsbert (Bert) Bos " href="https://en.wikipedia.org/wiki/Bert_Bos">Gijsbert (Bert) Bos </a>, computer scientist known for the development of Argo, a web browser he developed as test application for his style sheet proposal.</strong></div>
