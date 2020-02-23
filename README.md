@@ -556,15 +556,15 @@
 <p><strong>Publications:</strong></p>
 <hr>
 <ul>
-<li><a href="https://github.com/manjunath5496/HTML-Tutorial/blob/master/lie(1).pdf">The Electronic Broadsheet: all the News that fit the Display</a></li>
-<li><a href="https://github.com/manjunath5496/HTML-Tutorial/blob/master/lie(2).pdf"> Cascading Style Sheets</a></li>
-<li><a href="https://github.com/manjunath5496/HTML-Tutorial/blob/master/lie(3).pdf">CSS: It was twenty years ago today — an interview with Håkon Wium Lie</a></li>
-<li><a href="https://github.com/manjunath5496/HTML-Tutorial/blob/master/lie(4).pdf">Teleteaching in a Graduate Seminar:
+<li><a href="https://github.com/manjunath5496/CSS-Tutorial/blob/master/lie(1).pdf">The Electronic Broadsheet: all the News that fit the Display</a></li>
+<li><a href="https://github.com/manjunath5496/CSS-Tutorial/blob/master/lie(2).pdf"> Cascading Style Sheets</a></li>
+<li><a href="https://github.com/manjunath5496/CSS-Tutorial/blob/master/lie(3).pdf">CSS: It was twenty years ago today — an interview with Håkon Wium Lie</a></li>
+<li><a href="https://github.com/manjunath5496/CSS-Tutorial/blob/master/lie(4).pdf">Teleteaching in a Graduate Seminar:
 Practical Experiences and a Look Ahead</a></li>
-<li><a href="https://github.com/manjunath5496/HTML-Tutorial/blob/master/lie(5).pdf">SCREAM: Screen-based navigation in voice messages</a></li>
-<li><a href="https://github.com/manjunath5496/HTML-Tutorial/blob/master/lie(6).pdf">Towards a Uniform Library of Common Code</a></li>
-<li><a href="https://github.com/manjunath5496/HTML-Tutorial/blob/master/lie(7).pdf">Cascading Style Sheets, level 1</a></li>
-<li><a href="https://github.com/manjunath5496/HTML-Tutorial/blob/master/lie(8).pdf">Cascading Style Sheets Level 2</a></li>
+<li><a href="https://github.com/manjunath5496/CSS-Tutorial/blob/master/lie(5).pdf">SCREAM: Screen-based navigation in voice messages</a></li>
+<li><a href="https://github.com/manjunath5496/CSS-Tutorial/blob/master/lie(6).pdf">Towards a Uniform Library of Common Code</a></li>
+<li><a href="https://github.com/manjunath5496/CSS-Tutorial/blob/master/lie(7).pdf">Cascading Style Sheets, level 1</a></li>
+<li><a href="https://github.com/manjunath5496/CSS-Tutorial/blob/master/lie(8).pdf">Cascading Style Sheets Level 2</a></li>
 
 </ul>
 
