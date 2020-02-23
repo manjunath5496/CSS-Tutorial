@@ -543,7 +543,7 @@
 </dl>
 <h2><span id="History" class="mw-headline">History</span></h2>
 <div class="thumb tright">
-<div class="thumbinner"><a class="image" href="https://en.wikipedia.org/wiki/File:H%C3%A5kon_Wium_Lie.jpg"><img class="thumbimage" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/H%C3%A5kon_Wium_Lie.jpg/170px-H%C3%A5kon_Wium_Lie.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/54/H%C3%A5kon_Wium_Lie.jpg/255px-H%C3%A5kon_Wium_Lie.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/54/H%C3%A5kon_Wium_Lie.jpg/340px-H%C3%A5kon_Wium_Lie.jpg 2x" alt="" width="170" height="227" data-file-width="1920" data-file-height="2560" /></a>
+<div class="thumbinner"><a class="image" href="Lie.jpg"><img class="thumbimage" src="Lie.jpg" srcset="Lie.jpg" alt="" width="170" height="227" data-file-width="1920" data-file-height="2560" /></a>
 <div class="thumbcaption">
 <div class="magnify">&nbsp;</div>
 <strong><a title="H&aring;kon Wium Lie" href="https://en.wikipedia.org/wiki/H%C3%A5kon_Wium_Lie">H&aring;kon Wium Lie</a>, chief technical officer of the Opera Software company and co-creator of the CSS web standards</strong></div>
