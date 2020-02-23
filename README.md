@@ -550,6 +550,26 @@
 <div class="thumbcaption">&nbsp;</div>
 </div>
 </div>
+</br>
+
+
+<p><strong>Publications:</strong></p>
+<hr>
+<ul>
+<li><a href="https://github.com/manjunath5496/HTML-Tutorial/blob/master/lie(1).pdf">The Electronic Broadsheet: all the News that fit the Display</a></li>
+<li><a href="https://github.com/manjunath5496/HTML-Tutorial/blob/master/lie(2).pdf"> Cascading Style Sheets</a></li>
+<li><a href="https://github.com/manjunath5496/HTML-Tutorial/blob/master/lie(3).pdf">CSS: It was twenty years ago today — an interview with Håkon Wium Lie</a></li>
+<li><a href="https://github.com/manjunath5496/HTML-Tutorial/blob/master/lie(4).pdf">Teleteaching in a Graduate Seminar:
+Practical Experiences and a Look Ahead</a></li>
+<li><a href="https://github.com/manjunath5496/HTML-Tutorial/blob/master/lie(5).pdf">SCREAM: Screen-based navigation in voice messages</a></li>
+<li><a href="https://github.com/manjunath5496/HTML-Tutorial/blob/master/lie(6).pdf">Towards a Uniform Library of Common Code</a></li>
+<li><a href="https://github.com/manjunath5496/HTML-Tutorial/blob/master/lie(7).pdf">Cascading Style Sheets, level 1</a></li>
+<li><a href="https://github.com/manjunath5496/HTML-Tutorial/blob/master/lie(8).pdf">Cascading Style Sheets Level 2</a></li>
+
+</ul>
+
+
+</br>
 <p>CSS was first proposed by&nbsp;<a title="H&aring;kon Wium Lie" href="https://en.wikipedia.org/wiki/H%C3%A5kon_Wium_Lie">H&aring;kon Wium Lie</a>&nbsp;on October 10, 1994.&nbsp;At the time, Lie was working with&nbsp;<a title="Tim Berners-Lee" href="https://en.wikipedia.org/wiki/Tim_Berners-Lee">Tim Berners-Lee</a>&nbsp;at&nbsp;<a title="CERN" href="https://en.wikipedia.org/wiki/CERN">CERN</a>.&nbsp;Several other style sheet languages for the web were proposed around the same time, and discussions on public mailing lists and inside&nbsp;<a title="World Wide Web Consortium" href="https://en.wikipedia.org/wiki/World_Wide_Web_Consortium">World Wide Web Consortium</a>&nbsp;resulted in the first W3C CSS Recommendation (CSS1) being released in 1996. In particular, a proposal by&nbsp;<a title="Bert Bos" href="https://en.wikipedia.org/wiki/Bert_Bos">Bert Bos</a>&nbsp;was influential; he became co-author of CSS1, and is regarded as co-creator of CSS.</p>
 <p>Style sheets have existed in one form or another since the beginnings of Standard Generalized Markup Language (<a class="mw-redirect" title="SGML" href="https://en.wikipedia.org/wiki/SGML">SGML</a>) in the 1980s, and CSS was developed to provide style sheets for the web.&nbsp;One requirement for a web style sheet language was for style sheets to come from different sources on the web. Therefore, existing style sheet languages like&nbsp;<a title="Document Style Semantics and Specification Language" href="https://en.wikipedia.org/wiki/Document_Style_Semantics_and_Specification_Language">DSSSL</a>&nbsp;and&nbsp;<a title="Formatting Output Specification Instance" href="https://en.wikipedia.org/wiki/Formatting_Output_Specification_Instance">FOSI</a>&nbsp;were not suitable. CSS, on the other hand, let a document's style be influenced by multiple style sheets by way of "cascading" styles.</p>
 <p>As HTML grew, it came to encompass a wider variety of stylistic capabilities to meet the demands of&nbsp;<a title="Web development" href="https://en.wikipedia.org/wiki/Web_development">web developers</a>. This evolution gave the designer more control over site appearance, at the cost of more complex HTML. Variations in&nbsp;<a title="Web browser" href="https://en.wikipedia.org/wiki/Web_browser">web browser</a>&nbsp;implementations, such as&nbsp;<a title="ViolaWWW" href="https://en.wikipedia.org/wiki/ViolaWWW">ViolaWWW</a>&nbsp;and&nbsp;<a title="WorldWideWeb" href="https://en.wikipedia.org/wiki/WorldWideWeb">WorldWideWeb</a>,&nbsp;made consistent site appearance difficult, and users had less control over how web content was displayed. The browser/editor developed by Tim Berners-Lee had style sheets that were hard-coded into the program. The style sheets could therefore not be linked to documents on the web.<span style="font-size: xx-small;">&nbsp;</span><a title="Robert Cailliau" href="https://en.wikipedia.org/wiki/Robert_Cailliau">Robert Cailliau</a>, also of CERN, wanted to separate the structure from the presentation so that different style sheets could describe different presentation for printing, screen-based presentations, and editors.</p>
