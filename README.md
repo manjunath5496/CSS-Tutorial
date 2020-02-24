@@ -191,7 +191,8 @@
 <li class="toclevel-2 tocsection-29"><a href="#Design_methodologies"><span class="toctext">Design methodologies</span></a></li>
 </ul>
 </li>
- <li class="toclevel-3 tocsection-30"><a href="#Books"><span class="toctext">Books</span></a></li>   
+ <li class="toclevel-3 tocsection-30"><a href="#CSS Tutorial"><span class="toctext">CSS Tutorial</span></a></li>  
+ <li class="toclevel-3 tocsection-31"><a href="#Books"><span class="toctext">Books</span></a></li>   
 </ul>
 <h2><span id="Syntax" class="mw-headline">Syntax</span></h2>
 <p>CSS has a simple&nbsp;<a title="Syntax" href="https://en.wikipedia.org/wiki/Syntax">syntax</a>&nbsp;and uses a number of English keywords to specify the names of various style properties.</p>
@@ -927,6 +928,34 @@ Practical Experiences and a Look Ahead</a></li>
 <p><a title="CSS framework" href="https://en.wikipedia.org/wiki/CSS_framework">CSS frameworks</a>&nbsp;are pre-prepared&nbsp;<a title="Library (computing)" href="https://en.wikipedia.org/wiki/Library_(computing)">libraries</a>&nbsp;that are meant to allow for easier, more&nbsp;<a title="Standards-compliant" href="https://en.wikipedia.org/wiki/Standards-compliant">standards-compliant</a>&nbsp;styling of&nbsp;<a title="Web page" href="https://en.wikipedia.org/wiki/Web_page">web pages</a>&nbsp;using the Cascading Style Sheets language. CSS frameworks include&nbsp;<a title="Foundation (framework)" href="https://en.wikipedia.org/wiki/Foundation_(framework)">Foundation</a>,&nbsp;<a title="Blueprint (CSS framework)" href="https://en.wikipedia.org/wiki/Blueprint_(CSS_framework)">Blueprint</a>,&nbsp;<a class="mw-redirect" title="Bootstrap (framework)" href="https://en.wikipedia.org/wiki/Bootstrap_(framework)">Bootstrap</a>,&nbsp;<a title="Cascade Framework" href="https://en.wikipedia.org/wiki/Cascade_Framework">Cascade Framework</a>&nbsp;and Materialize. Like programming and scripting language libraries, CSS frameworks are usually incorporated as external .css sheets referenced in the HTML&nbsp;<code id="" class="mw-highlight" dir="ltr"><span class="p">&lt;</span><span class="nt">head</span><span class="p">&gt;</span></code>. They provide a number of ready-made options for designing and laying out the web page. Although many of these frameworks have been published, some authors use them mostly for rapid prototyping, or for learning from, and prefer to 'handcraft' CSS that is appropriate to each published site without the design, maintenance and download overhead of having many unused features in the site's styling.</p>
 <h3><span id="Design_methodologies" class="mw-headline">Design methodologies</span></h3>
 <p>As the size of CSS resources used in a project increases, a development team often needs to decide on a common design methodology to keep them organized. The goals are ease of development, ease of collaboration during development and performance of the deployed stylesheets in the browser. Popular methodologies include OOCSS (object oriented CSS), ACSS (atomic CSS), oCSS (organic Cascade Style Sheet), SMACSS (scalable and modular architecture for CSS), and BEM (block, element, modifier).</p>
+
+</br>
+
+<h2 id ="CSS Tutorial">CSS Tutorial</h2>
+
+<ul>
+<li><strong>CSS</strong>&nbsp;stands for&nbsp;<strong>C</strong>ascading&nbsp;<strong>S</strong>tyle&nbsp;<strong>S</strong>heets</li>
+<li>CSS is a language that describes the style of an HTML document.</li>
+<li>CSS describes how HTML elements should be displayed.</li>
+</ul>
+</br>
+<div dir="ltr" lang="en">
+<h2 id="user-content-mw-toc-heading">Contents</h2>
+</div>
+<ul>
+<li><a href="https://github.com/manjunath5496/HTML-Tutorial#HTML%20Documents">HTML Documents</a></li>
+<li><a href="https://github.com/manjunath5496/HTML-Tutorial#HTML%20Headings">HTML Headings</a></li>
+<li><a href="https://github.com/manjunath5496/HTML-Tutorial#HTML%20Paragraphs">HTML Paragraphs</a></li>
+<li><a href="https://github.com/manjunath5496/HTML-Tutorial#HTML%20Links">HTML Links</a></li>
+<li><a href="https://github.com/manjunath5496/HTML-Tutorial#HTML%20Images">HTML Images</a></li>
+<li><a href="https://github.com/manjunath5496/HTML-Tutorial#HTML%20Buttons">HTML Buttons</a></li>
+<li><a href="https://github.com/manjunath5496/HTML-Tutorial#HTML%20Lists">HTML Lists</a></li>
+</ul>
+
+
+
+
+
 
 </br>
 
