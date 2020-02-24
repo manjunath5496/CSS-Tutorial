@@ -945,7 +945,7 @@ Practical Experiences and a Look Ahead</a></li>
 <ul>
 <li><a href="#CSS Syntax">CSS Syntax</a></li>
 <li><a href="#CSS Selectors">CSS Selectors</a></li>
-<li><a href="https://github.com/manjunath5496/HTML-Tutorial#HTML%20Paragraphs">HTML Paragraphs</a></li>
+<li><a href="#CSS Comments">CSS Comments</a></li>
 <li><a href="https://github.com/manjunath5496/HTML-Tutorial#HTML%20Links">HTML Links</a></li>
 <li><a href="https://github.com/manjunath5496/HTML-Tutorial#HTML%20Images">HTML Images</a></li>
 <li><a href="https://github.com/manjunath5496/HTML-Tutorial#HTML%20Buttons">HTML Buttons</a></li>
@@ -1146,6 +1146,44 @@ h1, h2, p {
 <a class="w3-btn w3-margin-bottom" href="https://manjunath5496.github.io/html/80.html" target="_blank">
 Try it Yourself &raquo; </a></div>
 </br>
+
+<h2 id="CSS Comments"> CSS Comments </h2>
+<ul>
+<li>Comments are used to explain the code, and may help when you edit the source code at a later date.</li>
+<li>Comments are ignored by browsers.</li>
+</ul>
+<p>A CSS comment starts with&nbsp;<code class="w3-codespan">/*</code>&nbsp;and ends with&nbsp;<code class="w3-codespan">*/</code>:</p>
+
+</br>
+<div class="w3-example">
+<h3>Example</h3>
+
+```HTML language
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+/* This is a single-line comment */
+p {
+  color: red;
+} 
+</style>
+</head>
+<body>
+<p>CSS comments are not shown in the output.</p>
+</body>
+</html>
+
+```
+<a class="w3-btn w3-margin-bottom" href="https://manjunath5496.github.io/html/81.html" target="_blank">
+Try it Yourself &raquo; </a></div>
+</br>
+
+
+
+
+
+
 
 
 
