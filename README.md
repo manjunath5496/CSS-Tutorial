@@ -191,7 +191,7 @@
 <li class="toclevel-2 tocsection-29"><a href="#Design_methodologies"><span class="toctext">Design methodologies</span></a></li>
 </ul>
 </li>
- <li class="toclevel-3 tocsection-22"><a href="#CSS_4"><span class="toctext">CSS 4</span></a></li>   
+ <li class="toclevel-3 tocsection-30"><a href="#Books"><span class="toctext">Books</span></a></li>   
 </ul>
 <h2><span id="Syntax" class="mw-headline">Syntax</span></h2>
 <p>CSS has a simple&nbsp;<a title="Syntax" href="https://en.wikipedia.org/wiki/Syntax">syntax</a>&nbsp;and uses a number of English keywords to specify the names of various style properties.</p>
@@ -927,3 +927,43 @@ Practical Experiences and a Look Ahead</a></li>
 <p><a title="CSS framework" href="https://en.wikipedia.org/wiki/CSS_framework">CSS frameworks</a>&nbsp;are pre-prepared&nbsp;<a title="Library (computing)" href="https://en.wikipedia.org/wiki/Library_(computing)">libraries</a>&nbsp;that are meant to allow for easier, more&nbsp;<a title="Standards-compliant" href="https://en.wikipedia.org/wiki/Standards-compliant">standards-compliant</a>&nbsp;styling of&nbsp;<a title="Web page" href="https://en.wikipedia.org/wiki/Web_page">web pages</a>&nbsp;using the Cascading Style Sheets language. CSS frameworks include&nbsp;<a title="Foundation (framework)" href="https://en.wikipedia.org/wiki/Foundation_(framework)">Foundation</a>,&nbsp;<a title="Blueprint (CSS framework)" href="https://en.wikipedia.org/wiki/Blueprint_(CSS_framework)">Blueprint</a>,&nbsp;<a class="mw-redirect" title="Bootstrap (framework)" href="https://en.wikipedia.org/wiki/Bootstrap_(framework)">Bootstrap</a>,&nbsp;<a title="Cascade Framework" href="https://en.wikipedia.org/wiki/Cascade_Framework">Cascade Framework</a>&nbsp;and Materialize. Like programming and scripting language libraries, CSS frameworks are usually incorporated as external .css sheets referenced in the HTML&nbsp;<code id="" class="mw-highlight" dir="ltr"><span class="p">&lt;</span><span class="nt">head</span><span class="p">&gt;</span></code>. They provide a number of ready-made options for designing and laying out the web page. Although many of these frameworks have been published, some authors use them mostly for rapid prototyping, or for learning from, and prefer to 'handcraft' CSS that is appropriate to each published site without the design, maintenance and download overhead of having many unused features in the site's styling.</p>
 <h3><span id="Design_methodologies" class="mw-headline">Design methodologies</span></h3>
 <p>As the size of CSS resources used in a project increases, a development team often needs to decide on a common design methodology to keep them organized. The goals are ease of development, ease of collaboration during development and performance of the deployed stylesheets in the browser. Popular methodologies include OOCSS (object oriented CSS), ACSS (atomic CSS), oCSS (organic Cascade Style Sheet), SMACSS (scalable and modular architecture for CSS), and BEM (block, element, modifier).</p>
+
+</br>
+
+<h2 id ="Books">Books: </h2>
+
+<ul>
+<li><a href="https://github.com/manjunath5496/CSS-Tutorial/blob/master/lie(11).pdf">CSS Cookbook</a></li>
+<li><a href="https://github.com/manjunath5496/CSS-Tutorial/blob/master/lie(12).pdf"> CSS Tutorial</a></li>
+<li><a href="https://github.com/manjunath5496/CSS-Tutorial/blob/master/lie(13).pdf">CSS: The Missing Manual</a></li>
+<li><a href="https://github.com/manjunath5496/CSS-Tutorial/blob/master/lie(14).pdf">Teleteaching in a Graduate Seminar:
+Practical Experiences and a Look Ahead</a></li>
+<li><a href="https://github.com/manjunath5496/CSS-Tutorial/blob/master/lie(15).pdf">Mastering CSS: A guided journey through modern CSS</a></li>
+<li><a href="https://github.com/manjunath5496/CSS-Tutorial/blob/master/lie(16).pdf">CSS Web Design For Dummies</a></li>
+<li><a href="https://github.com/manjunath5496/CSS-Tutorial/blob/master/lie(17).pdf">Mastering CSS for Web Developers</a></li>
+<li><a href="https://github.com/manjunath5496/CSS-Tutorial/blob/master/lie(18).pdf">The CSS Detective Guide: Tricks for solving tough CSS mysteries</a></li>
+<li><a href="https://github.com/manjunath5496/CSS-Tutorial/blob/master/lie(19).pdf">CSS Secrets: Better Solutions to Everyday Web Design Problems</a></li>
+<li><a href="https://github.com/manjunath5496/CSS-Tutorial/blob/master/lie(20).pdf">Grid Layout in CSS: Interface Layout for the Web</a></li>
+<li><a href="https://github.com/manjunath5496/CSS-Tutorial/blob/master/lie(21).pdf">Transitions and Animations in CSS</a></li>
+ <li><a href="https://github.com/manjunath5496/CSS-Tutorial/blob/master/lie(22).pdf">Learn CSS In One Day and Learn It Well</a></li>
+ 
+ 
+</ul>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
