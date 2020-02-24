@@ -943,7 +943,7 @@ Practical Experiences and a Look Ahead</a></li>
 <h2 id="user-content-mw-toc-heading">Contents</h2>
 </div>
 <ul>
-<li><a href="https://github.com/manjunath5496/HTML-Tutorial#HTML%20Documents">HTML Documents</a></li>
+<li><a href="#CSS Syntax">CSS Syntax</a></li>
 <li><a href="https://github.com/manjunath5496/HTML-Tutorial#HTML%20Headings">HTML Headings</a></li>
 <li><a href="https://github.com/manjunath5496/HTML-Tutorial#HTML%20Paragraphs">HTML Paragraphs</a></li>
 <li><a href="https://github.com/manjunath5496/HTML-Tutorial#HTML%20Links">HTML Links</a></li>
@@ -951,6 +951,19 @@ Practical Experiences and a Look Ahead</a></li>
 <li><a href="https://github.com/manjunath5496/HTML-Tutorial#HTML%20Buttons">HTML Buttons</a></li>
 <li><a href="https://github.com/manjunath5496/HTML-Tutorial#HTML%20Lists">HTML Lists</a></li>
 </ul>
+
+</br>
+
+<h2 id="CSS Syntax">CSS Syntax </h2>
+
+
+
+
+
+
+
+
+
 
 
 
