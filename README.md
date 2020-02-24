@@ -1058,12 +1058,12 @@ Try it Yourself &raquo; </a></div>
 </br>
 
 <h2>The CSS class Selector</h2>
-<p>The class selector selects HTML elements with a specific class attribute.</p>
+
 
 <p>&nbsp;</p>
 
 <div class="w3-example">
-<h3>Example</h3>
+<h3>Example</h3> <p>The class selector selects HTML elements with a specific class attribute.</p>
 
 ```HTML language
 <!DOCTYPE html>
