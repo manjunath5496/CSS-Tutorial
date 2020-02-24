@@ -959,13 +959,20 @@ Practical Experiences and a Look Ahead</a></li>
 <li><a href="https://github.com/manjunath5496/CSS-Tutorial/blob/master/lie(33).pdf">Flexbox in CSS: Understanding CSS Flexible Box Layout</a></li>
  <li><a href="https://github.com/manjunath5496/CSS-Tutorial/blob/master/lie(34).pdf">Foundation HTML5 With CSS3</a></li>
  
+ <li><a href="https://github.com/manjunath5496/CSS-Tutorial/blob/master/lie(35).pdf">Pro HTML5 and CSS3 Design Patterns</a></li>
+<li><a href="https://github.com/manjunath5496/CSS-Tutorial/blob/master/lie(36).rar">Mastering Integrated HTML and CSS</a></li>
+<li><a href="https://github.com/manjunath5496/CSS-Tutorial/blob/master/lie(37).pdf">Modern CSS</a></li>
+<li><a href="https://github.com/manjunath5496/CSS-Tutorial/blob/master/lie(38).rar">Practical Web Design for Absolute Beginners</a></li>
+<li><a href="https://github.com/manjunath5496/CSS-Tutorial/blob/master/lie(39).pdf">Table Layout in CSS</a></li>
+<li><a href="https://github.com/manjunath5496/CSS-Tutorial/blob/master/lie(40).pdf">The CSS Anthology: 101 Essential Tips, Tricks and  Hacks</a></li>
+<li><a href="https://github.com/manjunath5496/CSS-Tutorial/blob/master/lie(41).pdf">Beginning CSS Preprocessors</a></li>
+<li><a href="https://github.com/manjunath5496/CSS-Tutorial/blob/master/lie(42).pdf">CSS: A Power Course for Web Artists</a></li>
+ <li><a href="https://github.com/manjunath5496/CSS-Tutorial/blob/master/lie(43).pdf">CSS Programming Cookbook</a></li>
  
- 
- 
- 
- 
- 
- 
+ <li><a href="https://github.com/manjunath5496/CSS-Tutorial/blob/master/lie(44).pdf">Flexible Web Design: Creating Liquid and Elastic Layouts with CSS</a></li>
+<li><a href="https://github.com/manjunath5496/CSS-Tutorial/blob/master/lie(45).pdf">HTML, XHTML, and CSS All-in-One Desk Reference For Dummies</a></li>
+<li><a href="https://github.com/manjunath5496/CSS-Tutorial/blob/master/lie(46).pdf">Less Web Development Essentials</a></li>
+
  
 </ul>
 
