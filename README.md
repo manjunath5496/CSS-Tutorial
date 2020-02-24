@@ -1085,6 +1085,40 @@ Try it Yourself &raquo; </a></div>
 Try it Yourself &raquo; </a></div>
 </br>
 
+<h2>The CSS Universal Selector</h2>
+<p>The universal selector (*) selects all HTML elements on the page.</p>
+</br>
+<div class="w3-example">
+<h3>Example</h3>
+
+```HTML language
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+* {
+  text-align: center;
+  color: blue;
+}
+</style>
+</head>
+<body>
+
+<h1>Hello world!</h1>
+<p>Me too!</p>
+<p>And me!</p>
+
+</body>
+</html>
+```
+<a class="w3-btn w3-margin-bottom" href="https://manjunath5496.github.io/html/79.html" target="_blank">
+Try it Yourself &raquo; </a></div>
+</br>
+
+
+
+
+
 
 
 
