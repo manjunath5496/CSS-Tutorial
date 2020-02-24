@@ -1115,9 +1115,37 @@ Try it Yourself &raquo; </a></div>
 Try it Yourself &raquo; </a></div>
 </br>
 
+<h2>The CSS Grouping Selector</h2>
+<p>The grouping selector selects all the HTML elements with the same style definitions.</p>
+<p>Look at the following CSS code (the h1, h2, and p elements have the same style definitions):</p>
 
+</br>
+<div class="w3-example">
+<h3>Example</h3>
 
+```HTML language
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+h1, h2, p {
+  text-align: center;
+  color: red;
+}
+</style>
+</head>
+<body>
 
+<h1>Hello world!</h1>
+<h2>Me too!</h2>
+<p>And me!</p>
+
+</body>
+</html>
+```
+<a class="w3-btn w3-margin-bottom" href="https://manjunath5496.github.io/html/80.html" target="_blank">
+Try it Yourself &raquo; </a></div>
+</br>
 
 
 
