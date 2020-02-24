@@ -1267,6 +1267,94 @@ Try it Yourself &raquo; </a></div>
 </br>
 
 
+<h2>CSS background-repeat: repeat-y</h2>
+
+</br>
+<div class="w3-example">
+<h3>Example</h3>
+
+```HTML language
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+body {
+  background-image: url("paper.gif");
+  background-repeat: repeat-y;
+}
+</style>
+</head>
+<body>
+
+<h1>Hello World!</h1>
+
+</body>
+</html>
+```
+<a class="w3-btn w3-margin-bottom" href="https://manjunath5496.github.io/html/85.html" target="_blank">
+Try it Yourself &raquo; </a></div>
+</br>
+
+
+<h2>CSS background-repeat: no-repeat</h2>
+
+</br>
+<div class="w3-example">
+<h3>Example</h3>
+
+```HTML language
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+body {
+  background-image: url("paper.gif");
+  background-repeat: no-repeat;
+}
+</style>
+</head>
+<body>
+
+<h1>Hello World!</h1>
+
+</body>
+</html>
+```
+<a class="w3-btn w3-margin-bottom" href="https://manjunath5496.github.io/html/86.html" target="_blank">
+Try it Yourself &raquo; </a></div>
+</br>
+
+<h2>CSS background-position</h2>
+<p>The&nbsp;<code class="w3-codespan">background-position</code>&nbsp;property is used to specify the position of the background image.</p>
+
+
+</br>
+<div class="w3-example">
+<h3>Example</h3>
+
+```HTML language
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+body {
+  background-image: url("paper.gif");
+  background-repeat: no-repeat;
+ background-position: right top;
+}
+</style>
+</head>
+<body>
+
+<h1>Hello World!</h1>
+
+</body>
+</html>
+```
+<a class="w3-btn w3-margin-bottom" href="https://manjunath5496.github.io/html/87.html" target="_blank">
+Try it Yourself &raquo; </a></div>
+</br>
+
 
 
 
