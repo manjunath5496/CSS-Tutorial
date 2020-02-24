@@ -957,9 +957,36 @@ Practical Experiences and a Look Ahead</a></li>
 <h2 id="CSS Syntax">CSS Syntax </h2>
 
 
+<div class="w3-example">
+<h3>Example</h3>
+  
+```HTML language
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+h1 {
+  color: red;
+  text-align: center;
+} 
+</style>
+</head>
+<body>
 
+<h1>Hello World!</h1>
 
+</body>
+</html>
+```
+<a class="w3-btn w3-margin-bottom" href="https://manjunath5496.github.io/html/75.html" target="_blank">
+Try it Yourself &raquo; </a></div>
+</br>
 
+<ul>
+<li><code class="w3-codespan">h1</code>&nbsp;is a&nbsp;<strong>selector</strong>&nbsp;in CSS (it points to the HTML element you want to style: &lt;h1&gt;).</li>
+<li><code class="w3-codespan">color</code>&nbsp;is a property, and&nbsp;<code class="w3-codespan">red</code>&nbsp;is the property value</li>
+<li><code class="w3-codespan">text-align</code>&nbsp;is a property, and&nbsp;<code class="w3-codespan">center</code>&nbsp;is the property value</li>
+</ul>
 
 
 
