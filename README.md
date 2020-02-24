@@ -944,7 +944,7 @@ Practical Experiences and a Look Ahead</a></li>
 </div>
 <ul>
 <li><a href="#CSS Syntax">CSS Syntax</a></li>
-<li><a href="https://github.com/manjunath5496/HTML-Tutorial#HTML%20Headings">HTML Headings</a></li>
+<li><a href="#CSS Selectors">CSS Selectors</a></li>
 <li><a href="https://github.com/manjunath5496/HTML-Tutorial#HTML%20Paragraphs">HTML Paragraphs</a></li>
 <li><a href="https://github.com/manjunath5496/HTML-Tutorial#HTML%20Links">HTML Links</a></li>
 <li><a href="https://github.com/manjunath5496/HTML-Tutorial#HTML%20Images">HTML Images</a></li>
@@ -988,8 +988,42 @@ Try it Yourself &raquo; </a></div>
 <li><code class="w3-codespan">text-align</code>&nbsp;is a property, and&nbsp;<code class="w3-codespan">center</code>&nbsp;is the property value</li>
 </ul>
 
+</br>
 
+<h2 id="CSS Selectors"> </h2>
 
+<p>CSS selectors are used to "find" (or select) the HTML elements you want to style.</p>
+
+<h2>The CSS element Selector</h2>
+<p>The element selector selects HTML elements based on the element name.</p>
+
+<div class="w3-example">
+<h3>Example</h3>
+ <p>Here, all &lt;h2&gt; elements on the page will be center-aligned, with a red text color.&nbsp;</p> 
+```HTML language
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+h2 {
+  text-align: center;
+  color: red;
+} 
+</style>
+</head>
+<body>
+
+<h2>Every paragraph will be affected by the style.</h2>
+<h2>Me too!</h2>
+<h2>And me!</h2>
+
+</body>
+</html>
+
+```
+<a class="w3-btn w3-margin-bottom" href="https://manjunath5496.github.io/html/76.html" target="_blank">
+Try it Yourself &raquo; </a></div>
+</br>
 
 
 
