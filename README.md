@@ -1457,6 +1457,35 @@ body {
 Try it Yourself &raquo; </a></div>
 </br>
 
+<h2>CSS background - Shorthand property</h2>
+
+</br>
+
+<div class="w3-example">
+<h3>Example</h3>
+
+```HTML language
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+body {
+ background: #ffffff url("img_tree.png") no-repeat right top;
+  margin-right: 200px;
+}
+</style>
+</head>
+<body>
+<h1>Hello World!</h1>
+</body>
+</html>
+```
+<a class="w3-btn w3-margin-bottom" href="https://manjunath5496.github.io/html/90.html" target="_blank">
+Try it Yourself &raquo; </a></div>
+</br>
+
+
+
 
 
 
