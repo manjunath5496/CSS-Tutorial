@@ -997,6 +997,7 @@ Try it Yourself &raquo; </a></div>
 <h2>The CSS element Selector</h2>
 <p>The element selector selects HTML elements based on the element name.</p>
 <p>Here, all &lt;h2&gt; elements on the page will be center-aligned, with a red text color.&nbsp;</p>
+</br>
 <div class="w3-example">
 <h3>Example</h3>
 
@@ -1025,8 +1026,64 @@ h2 {
 Try it Yourself &raquo; </a></div>
 </br>
 
+<h2>The CSS id Selector</h2>
+<p>The id selector uses the id attribute of an HTML element to select a specific element.</p>
+<p>&nbsp;</p>
+
+<div class="w3-example">
+<h3>Example</h3>
+
+```HTML language
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+#para1 {
+  text-align: center;
+  color: red;
+}
+</style>
+</head>
+<body>
+
+<h1 id="para1">Hello World!</h1>
+
+</body>
+</html>
 
 
+```
+<a class="w3-btn w3-margin-bottom" href="https://manjunath5496.github.io/html/77.html" target="_blank">
+Try it Yourself &raquo; </a></div>
+</br>
+
+<h2>The CSS class Selector</h2>
+<p>The class selector selects HTML elements with a specific class attribute.</p>
+
+<p>&nbsp;</p>
+
+<div class="w3-example">
+<h3>Example</h3>
+
+```HTML language
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+.center {
+  text-align: center;
+  color: red;
+}
+</style>
+</head>
+<body>
+<p class="center">Red and center-aligned paragraph.</p> 
+</body>
+</html>
+```
+<a class="w3-btn w3-margin-bottom" href="https://manjunath5496.github.io/html/78.html" target="_blank">
+Try it Yourself &raquo; </a></div>
+</br>
 
 
 
