@@ -999,7 +999,7 @@ Try it Yourself &raquo; </a></div>
 
 <div class="w3-example">
 <h3>Example</h3>
- <p>Here, all &lt;h2&gt; elements on the page will be center-aligned, with a red text color.&nbsp;</p> 
+
 ```HTML language
 <!DOCTYPE html>
 <html>
