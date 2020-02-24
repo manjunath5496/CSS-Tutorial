@@ -946,7 +946,7 @@ Practical Experiences and a Look Ahead</a></li>
 <li><a href="#CSS Syntax">CSS Syntax</a></li>
 <li><a href="#CSS Selectors">CSS Selectors</a></li>
 <li><a href="#CSS Comments">CSS Comments</a></li>
-<li><a href="https://github.com/manjunath5496/HTML-Tutorial#HTML%20Links">HTML Links</a></li>
+<li><a href="#CSS Backgrounds">CSS Backgrounds</a></li>
 <li><a href="https://github.com/manjunath5496/HTML-Tutorial#HTML%20Images">HTML Images</a></li>
 <li><a href="https://github.com/manjunath5496/HTML-Tutorial#HTML%20Buttons">HTML Buttons</a></li>
 <li><a href="https://github.com/manjunath5496/HTML-Tutorial#HTML%20Lists">HTML Lists</a></li>
@@ -1179,11 +1179,64 @@ p {
 Try it Yourself &raquo; </a></div>
 </br>
 
+<h2 id="CSS Backgrounds">CSS Backgrounds </h2>
 
+<h2>CSS background-color</h2>
+<p>The&nbsp;<code class="w3-codespan">background-color</code>&nbsp;property specifies the background color of an element.</p>
 
+</br>
+<div class="w3-example">
+<h3>Example</h3>
 
+```HTML language
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+body {
+  background-color: lightblue;
+}
+</style>
+</head>
+<body>
 
+<h1>Hello World!</h1>
 
+</body>
+</html>
+```
+<a class="w3-btn w3-margin-bottom" href="https://manjunath5496.github.io/html/82.html" target="_blank">
+Try it Yourself &raquo; </a></div>
+</br>
+
+<h2>CSS background-image</h2>
+<p>The&nbsp;<code class="w3-codespan">background-image</code>&nbsp;property specifies an image to use as the background of an element.</p>
+<p>By default, the image is repeated so it covers the entire element.</p>
+
+</br>
+<div class="w3-example">
+<h3>Example</h3>
+
+```HTML language
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+body {
+  background-image: url("paper.gif");
+}
+</style>
+</head>
+<body>
+
+<h1>Hello World!</h1>
+
+</body>
+</html>
+```
+<a class="w3-btn w3-margin-bottom" href="https://manjunath5496.github.io/html/83.html" target="_blank">
+Try it Yourself &raquo; </a></div>
+</br>
 
 
 
