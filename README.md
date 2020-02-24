@@ -990,13 +990,13 @@ Try it Yourself &raquo; </a></div>
 
 </br>
 
-<h2 id="CSS Selectors"> </h2>
+<h2 id="CSS Selectors">CSS Selectors </h2>
 
 <p>CSS selectors are used to "find" (or select) the HTML elements you want to style.</p>
 
 <h2>The CSS element Selector</h2>
 <p>The element selector selects HTML elements based on the element name.</p>
-
+<p>Here, all &lt;h2&gt; elements on the page will be center-aligned, with a red text color.&nbsp;</p>
 <div class="w3-example">
 <h3>Example</h3>
 
