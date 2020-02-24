@@ -936,8 +936,7 @@ Practical Experiences and a Look Ahead</a></li>
 <li><a href="https://github.com/manjunath5496/CSS-Tutorial/blob/master/lie(11).pdf">CSS Cookbook</a></li>
 <li><a href="https://github.com/manjunath5496/CSS-Tutorial/blob/master/lie(12).pdf"> CSS Tutorial</a></li>
 <li><a href="https://github.com/manjunath5496/CSS-Tutorial/blob/master/lie(13).pdf">CSS: The Missing Manual</a></li>
-<li><a href="https://github.com/manjunath5496/CSS-Tutorial/blob/master/lie(14).pdf">Teleteaching in a Graduate Seminar:
-Practical Experiences and a Look Ahead</a></li>
+<li><a href="https://github.com/manjunath5496/CSS-Tutorial/blob/master/lie(14).pdf">Sams Teach Yourself CSS in 24 Hours</a></li>
 <li><a href="https://github.com/manjunath5496/CSS-Tutorial/blob/master/lie(15).pdf">Mastering CSS: A guided journey through modern CSS</a></li>
 <li><a href="https://github.com/manjunath5496/CSS-Tutorial/blob/master/lie(16).pdf">CSS Web Design For Dummies</a></li>
 <li><a href="https://github.com/manjunath5496/CSS-Tutorial/blob/master/lie(17).pdf">Mastering CSS for Web Developers</a></li>
@@ -946,6 +945,26 @@ Practical Experiences and a Look Ahead</a></li>
 <li><a href="https://github.com/manjunath5496/CSS-Tutorial/blob/master/lie(20).pdf">Grid Layout in CSS: Interface Layout for the Web</a></li>
 <li><a href="https://github.com/manjunath5496/CSS-Tutorial/blob/master/lie(21).pdf">Transitions and Animations in CSS</a></li>
  <li><a href="https://github.com/manjunath5496/CSS-Tutorial/blob/master/lie(22).pdf">Learn CSS In One Day and Learn It Well</a></li>
+ 
+ <li><a href="https://github.com/manjunath5496/CSS-Tutorial/blob/master/lie(23).pdf">CSS Master</a></li>
+<li><a href="https://github.com/manjunath5496/CSS-Tutorial/blob/master/lie(24).pdf">Padding, Borders, Outlines, and Margins in CSS: CSS Box Model Details</a></li>
+<li><a href="https://github.com/manjunath5496/CSS-Tutorial/blob/master/lie(25).pdf">Enduring CSS: Architect and maintain large-scale CSS codebases</a></li>
+<li><a href="https://github.com/manjunath5496/CSS-Tutorial/blob/master/lie(26).pdf">CSS Framework Alternatives</a></li>
+<li><a href="https://github.com/manjunath5496/CSS-Tutorial/blob/master/lie(27).pdf">Professional CSS3</a></li>
+<li><a href="https://github.com/manjunath5496/CSS-Tutorial/blob/master/lie(28).pdf">CSS Grid Layout: 5 Practical Projects</a></li>
+<li><a href="https://github.com/manjunath5496/CSS-Tutorial/blob/master/lie(29).pdf">CSS Pocket Reference</a></li>
+<li><a href="https://github.com/manjunath5496/CSS-Tutorial/blob/master/lie(30).pdf">CSS Notes for Professionals</a></li>
+<li><a href="https://github.com/manjunath5496/CSS-Tutorial/blob/master/lie(31).pdf">CSS in Depth</a></li>
+<li><a href="https://github.com/manjunath5496/CSS-Tutorial/blob/master/lie(32).pdf">CSS Refactoring: Architect Your Stylesheets for Success</a></li>
+<li><a href="https://github.com/manjunath5496/CSS-Tutorial/blob/master/lie(33).pdf">Flexbox in CSS: Understanding CSS Flexible Box Layout</a></li>
+ <li><a href="https://github.com/manjunath5496/CSS-Tutorial/blob/master/lie(34).pdf">Foundation HTML5 With CSS3</a></li>
+ 
+ 
+ 
+ 
+ 
+ 
+ 
  
  
 </ul>
