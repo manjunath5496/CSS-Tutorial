@@ -996,10 +996,10 @@ Try it Yourself &raquo; </a></div>
 
 <h2>The CSS element Selector</h2>
 <p>The element selector selects HTML elements based on the element name.</p>
-<p>Here, all &lt;h2&gt; elements on the page will be center-aligned, with a red text color.&nbsp;</p>
+
 </br>
 <div class="w3-example">
-<h3>Example</h3>
+<h3>Example</h3><p>Here, all &lt;h2&gt; elements on the page will be center-aligned, with a red text color.&nbsp;</p>
 
 ```HTML language
 <!DOCTYPE html>
@@ -1058,12 +1058,12 @@ Try it Yourself &raquo; </a></div>
 </br>
 
 <h2>The CSS class Selector</h2>
-
+ <p>The class selector selects HTML elements with a specific class attribute.</p>
 
 <p>&nbsp;</p>
 
 <div class="w3-example">
-<h3>Example</h3> <p>The class selector selects HTML elements with a specific class attribute.</p>
+<h3>Example</h3>
 
 ```HTML language
 <!DOCTYPE html>
