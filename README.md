@@ -2848,7 +2848,7 @@ img {
 </br>
 
 <div class="w3-example">
-<h3>Example - float: right;</h3>
+<h3>Example </h3>
 
 ```HTML language
 <!DOCTYPE html>
@@ -2906,10 +2906,64 @@ Try it Yourself &raquo; </a></div>
 <h2>Transparent Image</h2>
 <p>The&nbsp;<code class="w3-codespan">opacity</code>&nbsp;property can take a value from 0.0 - 1.0. The lower value, the more transparent.</p>
 
+</br>
 
+<div class="w3-example">
+<h3>Example </h3>
 
+```HTML language
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+img {
+  opacity: 0.5;
+}
+</style>
+</head>
+<body>
 
+<img src="img_forest.jpg" alt="Forest" width="170" height="100">
 
+</body>
+</html>
+```
+<a class="w3-btn w3-margin-bottom" href="https://manjunath5496.github.io/html/115.html" target="_blank">
+Try it Yourself &raquo; </a></div>
+</br>
+
+<h2>Transparent Hover Effect</h2>
+<p>The&nbsp;<code class="w3-codespan">opacity</code>&nbsp;property is often used together with the&nbsp;<code class="w3-codespan">:hover</code>&nbsp;selector to change the opacity on mouse-over.</p>
+
+</br>
+
+<div class="w3-example">
+<h3>Example </h3>
+
+```HTML language
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+img {
+  opacity: 0.5;
+}
+
+img:hover {
+  opacity: 1.0;
+}
+</style>
+</head>
+<body>
+
+<img src="img_forest.jpg" alt="Forest" width="170" height="100">
+
+</body>
+</html>
+```
+<a class="w3-btn w3-margin-bottom" href="https://manjunath5496.github.io/html/116.html" target="_blank">
+Try it Yourself &raquo; </a></div>
+</br>
 
 
 </br>
