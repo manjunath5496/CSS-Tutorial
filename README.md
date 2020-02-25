@@ -1713,9 +1713,52 @@ p.one {
 Try it Yourself &raquo; </a></div>
 </br>
 
+<h2>HEX Values</h2>
+<p>The color of the border can also be specified using a hexadecimal value (HEX):</p>
+</br>
 
+<div class="w3-example">
+<h3>Example</h3>
 
+```HTML language
+p.one {
+  border-style: solid;
+  border-color: #ff0000; /* red */
+}
 
+```
+</div>
+</br>
+
+<h2>RGB Values</h2>
+</br>
+
+<div class="w3-example">
+<h3>Example</h3>
+
+```HTML language
+p.one {
+  border-style: solid;
+  border-color: rgb(255, 0, 0); /* red */
+}
+```
+</div>
+</br>
+<h2>HSL Values</h2>
+
+</br>
+
+<div class="w3-example">
+<h3>Example</h3>
+
+```HTML language
+p.one {
+  border-style: solid;
+  border-color: hsl(0, 100%, 50%); /* red */
+}
+```
+</div>
+</br>
 
 
 
