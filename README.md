@@ -2264,6 +2264,72 @@ p {
 Try it Yourself &raquo; </a></div>
 </br>
 
+<h2>Letter Spacing</h2>
+<p>The&nbsp;<code class="w3-codespan">letter-spacing</code>&nbsp;property is used to specify the space between the characters in a text.</p>
+
+</br>
+
+<div class="w3-example">
+<h3>Example</h3>
+
+```HTML language
+h1 {
+  letter-spacing: 3px;
+}
+
+h2 {
+  letter-spacing: -3px;
+}
+```
+</div>
+</br>
+
+<h2>Line Height</h2>
+<p>The&nbsp;<code class="w3-codespan">line-height</code>&nbsp;property is used to specify the space between lines.</p>
+
+</br>
+
+<div class="w3-example">
+<h3>Example</h3>
+
+```HTML language
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+p.small {
+  line-height: 0.7;
+}
+
+p.big {
+  line-height: 1.8;
+}
+</style>
+</head>
+<body>
+
+<p>
+This is a paragraph with a standard line-height.<br>
+The default line height in most browsers is about 110% to 120%.<br>
+</p>
+
+<p class="small">
+This is a paragraph with a smaller line-height.<br>
+This is a paragraph with a smaller line-height.<br>
+</p>
+
+<p class="big">
+This is a paragraph with a bigger line-height.<br>
+This is a paragraph with a bigger line-height.<br>
+</p>
+
+</body>
+</html>
+```
+<a class="w3-btn w3-margin-bottom" href="https://manjunath5496.github.io/html/106.html" target="_blank">
+Try it Yourself &raquo; </a></div>
+</br>
+
 
 
 
