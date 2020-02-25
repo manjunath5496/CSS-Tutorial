@@ -1596,6 +1596,48 @@ p.six {
 Try it Yourself &raquo; </a></div>
 </br>
 
+<p>The&nbsp;<code class="w3-codespan">border-width</code>&nbsp;property can have from one to four values (for the top border, right border, bottom border, and the left border):</p>
+
+</br>
+
+<div class="w3-example">
+<h3>Example</h3>
+
+```HTML language
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+p.one {
+  border-style: solid;
+  border-width: 5px 20px; 
+}
+
+p.two {
+  border-style: solid;
+  border-width: 20px 5px; 
+}
+
+p.three {
+  border-style: solid;
+  border-width: 25px 10px 4px 35px; 
+}
+</style>
+</head>
+<body>
+
+<p class="one">Some text.</p>
+<p class="two">Some text.</p>
+<p class="three">Some text.</p>
+
+</body>
+</html>
+
+```
+<a class="w3-btn w3-margin-bottom" href="https://manjunath5496.github.io/html/93.html" target="_blank">
+Try it Yourself &raquo; </a></div>
+</br>
+
 
 
 
