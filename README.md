@@ -952,6 +952,7 @@ Practical Experiences and a Look Ahead</a></li>
 <li><a href="#CSS Padding">CSS Padding</a></li>
  <li><a href="#CSS Height and Width">CSS Height and Width</a></li>
   <li><a href="#CSS Box Model">CSS Box Model</a></li>
+   <li><a href="#CSS Text">CSS Text</a></li>
 </ul>
 
 </br>
@@ -2119,6 +2120,80 @@ div.rex {
 <a class="w3-btn w3-margin-bottom" href="https://manjunath5496.github.io/html/103.html" target="_blank">
 Try it Yourself &raquo; </a></div>
 </br>
+
+<h2 id="CSS Text"> CSS Text</h2>
+
+<h2>Text Alignment</h2>
+<p>The&nbsp;<code class="w3-codespan">text-align</code>&nbsp;property is used to set the horizontal alignment of a text.</p>
+
+
+</br>
+
+<div class="w3-example">
+<h3>Example</h3>
+
+```HTML language
+h1 {
+  text-align: center;
+}
+
+h2 {
+  text-align: left;
+}
+
+h3 {
+  text-align: right;
+}
+```
+</div>
+</br>
+
+<p>When the&nbsp;<code class="w3-codespan">text-align</code>&nbsp;property is set to "justify", each line is stretched so that every line has equal width, and the left and right margins are straight.</p>
+
+</br>
+
+<div class="w3-example">
+<h3>Example</h3>
+
+```HTML language
+div {
+  text-align: justify;
+}
+```
+</div>
+</br>
+
+<h2>Text Decoration</h2>
+<p>The&nbsp;<code class="w3-codespan">text-decoration</code>&nbsp;property is used to set or remove decorations from text.</p>
+
+</br>
+
+<div class="w3-example">
+<h3>Example</h3>
+
+```HTML language
+h1 {
+  text-decoration: overline;
+}
+
+h2 {
+  text-decoration: line-through;
+}
+
+h3 {
+  text-decoration: underline;
+}
+
+a {
+  text-decoration: none;
+}
+
+```
+</div>
+</br>
+
+
+
 
 
 
