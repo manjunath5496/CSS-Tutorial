@@ -951,6 +951,7 @@ Practical Experiences and a Look Ahead</a></li>
 <li><a href="#CSS Margins">CSS Margins</a></li>
 <li><a href="#CSS Padding">CSS Padding</a></li>
  <li><a href="#CSS Height and Width">CSS Height and Width</a></li>
+  <li><a href="#CSS Box Model">CSS Box Model</a></li>
 </ul>
 
 </br>
@@ -2084,6 +2085,39 @@ div {
 </div>
 </br>
 
+<h2 id="CSS Box Model"> CSS Box Model</h2>
+
+<p>&nbsp;The CSS box model is essentially a box that wraps around every HTML element. It consists of: margins, borders, padding, and the actual content.&nbsp;</p>
+
+</br>
+
+<div class="w3-example">
+<h3>Example</h3>
+
+```HTML language
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+div.rex {
+  background-color: lightgrey;
+  width: 300px;
+  border: 15px solid green;
+  padding: 50px;
+  margin: 20px;
+}
+</style>
+</head>
+<body>
+
+<div class="rex">This text is the content of the box. We have added a 50px padding, 20px margin and a 15px green border. </div>
+
+</body>
+</html>
+```
+<a class="w3-btn w3-margin-bottom" href="https://manjunath5496.github.io/html/103.html" target="_blank">
+Try it Yourself &raquo; </a></div>
+</br>
 
 
 
