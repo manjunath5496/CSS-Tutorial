@@ -2738,9 +2738,62 @@ ul {
 Try it Yourself &raquo; </a></div>
 </br>
 
+<h2>Styling List With Colors</h2>
+
+</br>
+
+<div class="w3-example">
+<h3>Example</h3>
+
+```HTML language
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+ol {
+  background: #ff9999;
+  padding: 20px;
+}
+
+ul {
+  background: #3399ff;
+  padding: 20px;
+}
+
+ol li {
+  background: #ffe5e5;
+  padding: 5px;
+  margin-left: 35px;
+}
+
+ul li {
+  background: #cce5ff;
+  margin: 5px;
+}
+</style>
+</head>
+<body>
+
+<ol>
+  <li>Coffee</li>
+  <li>Tea</li>
+  <li>Coca Cola</li>
+</ol>
+
+<ul>
+  <li>Coffee</li>
+  <li>Tea</li>
+  <li>Coca Cola</li>
+</ul>
+
+</body>
+</html>
 
 
-
+```
+<a class="w3-btn w3-margin-bottom" href="https://manjunath5496.github.io/html/112.html" target="_blank">
+Try it Yourself &raquo; </a></div>
+</br>
 
 
 </br>
