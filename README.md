@@ -2620,11 +2620,7 @@ Try it Yourself &raquo; </a></div>
 <li>Tea</li>
 <li>Coca Cola</li>
 </ul>
-<ul>
-<li>Coffee</li>
-<li>Tea</li>
-<li>Coca Cola</li>
-</ul>
+
 </div>
 <div class="w3-half w3-container">
 <h2>Ordered Lists:</h2>
@@ -2633,11 +2629,7 @@ Try it Yourself &raquo; </a></div>
 <li>Tea</li>
 <li>Coca Cola</li>
 </ol>
-<ol>
-<li>Coffee</li>
-<li>Tea</li>
-<li>Coca Cola</li>
-</ol>
+
 </div>
 
 </br>
