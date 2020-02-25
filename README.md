@@ -959,6 +959,7 @@ Practical Experiences and a Look Ahead</a></li>
    <li><a href="#CSS Float">CSS Float</a></li>
     <li><a href="#CSS Opacity">CSS Opacity</a></li>
  <li><a href="#CSS Image Sprites">CSS Image Sprites</a></li>
+  <li><a href="#CSS Border Images">CSS Border Images</a></li>
 </ul>
 
 </br>
