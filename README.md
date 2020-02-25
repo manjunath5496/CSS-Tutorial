@@ -2400,7 +2400,7 @@ h1 {
 <h2 id="CSS Fonts">CSS Fonts </h2>
 
 <h2>Font Family</h2>
-
+<p>The font family of a text is set with the&nbsp;<code class="w3-codespan">font-family</code>&nbsp;property.</p>
 </br>
 
 <div class="w3-example">
@@ -2526,9 +2526,41 @@ p.thick {
 </div>
 </br>
 
+<h2>Font Variant</h2>
+<p>The&nbsp;<code class="w3-codespan">font-variant</code>&nbsp;property specifies whether or not a text should be displayed in a small-caps font.</p>
+<p>In a small-caps font, all lowercase letters are converted to uppercase letters. However, the converted uppercase letters appears in a smaller font size than the original uppercase letters in the text.</p>
 
+</br>
 
+<div class="w3-example">
+<h3>Example</h3>
 
+```HTML language
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+p.normal {
+  font-variant: normal;
+}
+
+p.small {
+  font-variant: small-caps;
+}
+</style>
+</head>
+<body>
+
+<p class="normal">My name is ....</p>
+<p class="small">My name is ....</p>
+
+</body>
+</html>
+
+```
+<a class="w3-btn w3-margin-bottom" href="https://manjunath5496.github.io/html/108.html" target="_blank">
+Try it Yourself &raquo; </a></div>
+</br>
 
 
 
