@@ -1835,7 +1835,8 @@ div.round3 {
 </head>
 <body>
 
-<div class ="round3">This div element has a top margin of 100px, a right margin of 150px, a bottom margin of 100px, and a left margin of 80px.</div>
+<div class ="round3">This div element has a top margin of 100px, a right margin of 150px, 
+ a bottom margin of 100px, and a left margin of 80px.</div>
 
 </body>
 </html>
@@ -1844,6 +1845,98 @@ div.round3 {
 <a class="w3-btn w3-margin-bottom" href="https://manjunath5496.github.io/html/97.html" target="_blank">
 Try it Yourself &raquo; </a></div>
 </br>
+
+<h2>Margin - Shorthand Property</h2>
+
+
+</br>
+
+<div class="w3-example">
+<h3>Example</h3>
+
+```HTML language
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+div.round3 {
+  border: 1px solid black;
+  margin: 25px 50px 75px 100px;
+  background-color: lightblue;
+}
+</style>
+</head>
+<body>
+
+<div class ="round3">This div element has a top margin of 25px, a right margin of 50px, a bottom margin of 75px, and a left margin of 100px.</div>
+
+</body>
+</html>
+
+```
+<a class="w3-btn w3-margin-bottom" href="https://manjunath5496.github.io/html/98.html" target="_blank">
+Try it Yourself &raquo; </a></div>
+</br>
+
+<h2>Margin - The auto Value</h2>
+
+
+</br>
+
+<div class="w3-example">
+<h3>Example</h3>
+
+```HTML language
+
+div.round3 {
+  width: 300px;
+  margin: auto;
+  border: 1px solid red;
+}
+
+```
+</div>
+</br>
+<h2>Margin - The inherit Value</h2>
+<p>&nbsp;This example lets the left margin of the &lt;p class="ex1"&gt; element be inherited from the parent element (&lt;div&gt;):</p>
+
+
+</br>
+
+<div class="w3-example">
+<h3>Example</h3>
+
+```HTML language
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+div.round3 {
+ border: 1px solid red;
+  margin-left: 100px;
+}
+ 
+p.ex1 {
+  margin-left: inherit;
+} 
+</style>
+</head>
+<body>
+
+<div class ="round3">
+<p class="ex1">This paragraph has an inherited left margin (from the div element).</p></div>
+</body>
+</html>
+
+```
+<a class="w3-btn w3-margin-bottom" href="https://manjunath5496.github.io/html/99.html" target="_blank">
+Try it Yourself &raquo; </a></div>
+</br>
+
+
+
+
+
 
 
 
