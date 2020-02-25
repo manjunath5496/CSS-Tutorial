@@ -2704,6 +2704,42 @@ ol.d {
 Try it Yourself &raquo; </a></div>
 </br>
 
+<h2>An Image as The List Item Marker</h2>
+<p>The&nbsp;<code class="w3-codespan">list-style-image</code>&nbsp;property specifies an image as the list item marker.</p>
+</br>
+
+<div class="w3-example">
+<h3>Example</h3>
+
+```HTML language
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+ul {
+  list-style-image: url("sqpurple.gif");
+}
+</style>
+</head>
+<body>
+
+<ul>
+  <li>Coffee</li>
+  <li>Tea</li>
+  <li>Coca Cola</li>
+</ul>
+
+</body>
+</html>
+
+
+```
+<a class="w3-btn w3-margin-bottom" href="https://manjunath5496.github.io/html/111.html" target="_blank">
+Try it Yourself &raquo; </a></div>
+</br>
+
+
+
 
 
 
