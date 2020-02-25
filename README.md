@@ -957,6 +957,7 @@ Practical Experiences and a Look Ahead</a></li>
  <li><a href="#CSS Icons">CSS Icons</a></li> 
   <li><a href="#CSS Lists">CSS Lists</a></li>
    <li><a href="#CSS Float">CSS Float</a></li>
+    <li><a href="#CSS Opacity">CSS Opacity</a></li>
 </ul>
 
 </br>
@@ -2898,6 +2899,12 @@ img {
 Try it Yourself &raquo; </a></div>
 </br>
 
+<h2 id="CSS Opacity">CSS Opacity </h2>
+
+<p>The&nbsp;<code class="w3-codespan">opacity</code>&nbsp;property specifies the opacity/transparency of an element.</p>
+
+<h2>Transparent Image</h2>
+<p>The&nbsp;<code class="w3-codespan">opacity</code>&nbsp;property can take a value from 0.0 - 1.0. The lower value, the more transparent.</p>
 
 
 
