@@ -950,6 +950,7 @@ Practical Experiences and a Look Ahead</a></li>
 <li><a href="#CSS Borders">CSS Borders</a></li>
 <li><a href="#CSS Margins">CSS Margins</a></li>
 <li><a href="#CSS Padding">CSS Padding</a></li>
+ <li><a href="#CSS Height and Width">CSS Height and Width</a></li>
 </ul>
 
 </br>
@@ -2033,6 +2034,59 @@ div.rex {
 <a class="w3-btn w3-margin-bottom" href="https://manjunath5496.github.io/html/102.html" target="_blank">
 Try it Yourself &raquo; </a></div>
 </br>
+
+<h2 id="CSS Height and Width">CSS&nbsp;<span class="color_h1">Height and Width</span></h2>
+
+<p>&nbsp;The&nbsp;<code class="w3-codespan">height</code>&nbsp;and&nbsp;<code class="w3-codespan">width</code>&nbsp;properties are used to set the height and width of an element.</p>
+
+</br>
+
+<div class="w3-example">
+<h3>Example</h3>
+
+```HTML language
+div {
+  height: 200px;
+  width: 50%;
+  background-color: powderblue;
+}
+```
+</div>
+</br>
+
+</br>
+
+<div class="w3-example">
+<h3>Example</h3>
+
+```HTML language
+div {
+  height: 100px;
+  width: 500px;
+  background-color: powderblue;
+}
+```
+</div>
+</br>
+
+</br>
+
+<div class="w3-example">
+<h3>Example</h3>
+
+```HTML language
+div {
+  max-width: 500px;
+  height: 100px;
+  background-color: powderblue;
+}
+```
+</div>
+</br>
+
+
+
+
 
 
 
