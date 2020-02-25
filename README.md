@@ -955,6 +955,7 @@ Practical Experiences and a Look Ahead</a></li>
    <li><a href="#CSS Text">CSS Text</a></li>
   <li><a href="#CSS Fonts">CSS Fonts</a></li> 
  <li><a href="#CSS Icons">CSS Icons</a></li> 
+  <li><a href="#CSS Lists">CSS Lists</a></li>
 </ul>
 
 </br>
@@ -2605,9 +2606,103 @@ Try it Yourself &raquo; </a></div>
 Try it Yourself &raquo; </a></div>
 </br>
 
+<h2 id="CSS Lists">CSS&nbsp;<span class="color_h1">Lists</span></h2>
+<p>In HTML, there are two main types of lists:</p>
+<ul>
+<li>unordered lists (&lt;ul&gt;) - the list items are marked with bullets</li>
+<li>ordered lists (&lt;ol&gt;) - the list items are marked with numbers or letters</li>
+</ul>
+<p>&nbsp;</p>
+<p>Unordered Lists:</p>
+<div class="w3-half w3-container">
+<ul>
+<li>Coffee</li>
+<li>Tea</li>
+<li>Coca Cola</li>
+</ul>
+<ul>
+<li>Coffee</li>
+<li>Tea</li>
+<li>Coca Cola</li>
+</ul>
+</div>
+<div class="w3-half w3-container">
+<h2>Ordered Lists:</h2>
+<ol>
+<li>Coffee</li>
+<li>Tea</li>
+<li>Coca Cola</li>
+</ol>
+<ol>
+<li>Coffee</li>
+<li>Tea</li>
+<li>Coca Cola</li>
+</ol>
+</div>
+
+</br>
+
+<div class="w3-example">
+<h3>Example</h3>
+
+```HTML language
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+ul.a {
+  list-style-type: circle;
+}
+
+ul.b {
+  list-style-type: square;
+}
+
+ol.c {
+  list-style-type: upper-roman;
+}
+
+ol.d {
+  list-style-type: lower-alpha;
+}
+</style>
+</head>
+<body>
+
+<p>Example of unordered lists:</p>
+<ul class="a">
+  <li>Coffee</li>
+  <li>Tea</li>
+  <li>Coca Cola</li>
+</ul>
+
+<ul class="b">
+  <li>Coffee</li>
+  <li>Tea</li>
+  <li>Coca Cola</li>
+</ul>
+
+<p>Example of ordered lists:</p>
+<ol class="c">
+  <li>Coffee</li>
+  <li>Tea</li>
+  <li>Coca Cola</li>
+</ol>
+
+<ol class="d">
+  <li>Coffee</li>
+  <li>Tea</li>
+  <li>Coca Cola</li>
+</ol>
+
+</body>
+</html>
 
 
-
+```
+<a class="w3-btn w3-margin-bottom" href="https://manjunath5496.github.io/html/110.html" target="_blank">
+Try it Yourself &raquo; </a></div>
+</br>
 
 
 
