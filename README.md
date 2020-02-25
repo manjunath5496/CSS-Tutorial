@@ -1595,7 +1595,7 @@ p.six {
 <a class="w3-btn w3-margin-bottom" href="https://manjunath5496.github.io/html/92.html" target="_blank">
 Try it Yourself &raquo; </a></div>
 </br>
-
+<h2>Specific Side Widths</h2>
 <p>The&nbsp;<code class="w3-codespan">border-width</code>&nbsp;property can have from one to four values (for the top border, right border, bottom border, and the left border):</p>
 
 </br>
