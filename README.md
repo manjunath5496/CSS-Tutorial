@@ -3040,8 +3040,8 @@ div.third {
 </head>
 <body>
 
-<img id="home" src="img_trans.gif" width="1" height="1"><br><br>
-<img id="next" src="img_trans.gif" width="1" height="1">
+<img id="home" width="1" height="1"><br><br>
+<img id="next" width="1" height="1">
 
 </body>
 </html>
