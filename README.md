@@ -3052,6 +3052,39 @@ Try it Yourself &raquo; </a></div>
 </br>
 
 
+<h2 id="CSS Border Images"> CSS Border Images</h2>
+
+<p>The CSS&nbsp;<code class="w3-codespan">border-image</code>&nbsp;property allows you to specify an image to be used instead of the normal border around an element.</p>
+
+</br>
+
+<div class="w3-example">
+<h3>Example </h3>
+
+```HTML language
+<!DOCTYPE html>
+<html>
+<head>
+<style> 
+#borderimg { 
+  border: 10px solid transparent;
+  padding: 15px;
+  border-image: url(border.png) 30 round;
+}
+</style>
+</head>
+<body>
+
+<p id="borderimg">border-image: url(border.png) 30 round;</p>
+
+
+</body>
+</html>
+
+```
+<a class="w3-btn w3-margin-bottom" href="https://manjunath5496.github.io/html/118.html" target="_blank">
+Try it Yourself &raquo; </a></div>
+</br>
 
 
 
