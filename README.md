@@ -1533,10 +1533,68 @@ p.mix {border-style: dotted dashed solid double;}
 Try it Yourself &raquo; </a></div>
 </br>
 
+<h2>CSS Border Width</h2>
+<p>The&nbsp;<code class="w3-codespan">border-width</code>&nbsp;property specifies the width of the four borders.</p>
 
 
+</br>
+
+<div class="w3-example">
+<h3>Example</h3>
+
+```HTML language
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+p.one {
+  border-style: solid;
+  border-width: 5px;
+}
+
+p.two {
+  border-style: solid;
+  border-width: medium;
+}
+
+p.three {
+  border-style: dotted;
+  border-width: 2px;
+}
+
+p.four {
+  border-style: dotted;
+  border-width: thick;
+}
+
+p.five {
+  border-style: double;
+  border-width: 15px;
+}
+
+p.six {
+  border-style: double;
+  border-width: thick;
+}
+</style>
+</head>
+<body>
 
 
+<p class="one">Some text.</p>
+<p class="two">Some text.</p>
+<p class="three">Some text.</p>
+<p class="four">Some text.</p>
+<p class="five">Some text.</p>
+<p class="six">Some text.</p>
+
+
+</body>
+</html>
+```
+<a class="w3-btn w3-margin-bottom" href="https://manjunath5496.github.io/html/92.html" target="_blank">
+Try it Yourself &raquo; </a></div>
+</br>
 
 
 
