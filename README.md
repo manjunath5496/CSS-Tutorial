@@ -956,6 +956,7 @@ Practical Experiences and a Look Ahead</a></li>
   <li><a href="#CSS Fonts">CSS Fonts</a></li> 
  <li><a href="#CSS Icons">CSS Icons</a></li> 
   <li><a href="#CSS Lists">CSS Lists</a></li>
+   <li><a href="#CSS Float">CSS Float</a></li>
 </ul>
 
 </br>
@@ -2786,6 +2787,61 @@ ul li {
 <a class="w3-btn w3-margin-bottom" href="https://manjunath5496.github.io/html/112.html" target="_blank">
 Try it Yourself &raquo; </a></div>
 </br>
+<h2 id="CSS Float">CSS Float </h2>
+<p>The CSS&nbsp;<code class="w3-codespan">float</code>&nbsp;property specifies how an element should float.</p>
+
+
+</br>
+
+<div class="w3-example">
+<h3>Example - float: right;</h3>
+
+```HTML language
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+img {
+  float: right;
+}
+</style>
+</head>
+<body>
+
+<p><img src="img_tree.png" alt="Tree" style="width:170px;height:170px;margin-left:15px;">
+</p>
+
+</body>
+</html>
+```
+<a class="w3-btn w3-margin-bottom" href="https://manjunath5496.github.io/html/113.html" target="_blank">
+Try it Yourself &raquo; </a></div>
+</br>
+
+
+<div class="w3-example">
+<h3>Example - float: right;</h3>
+
+```HTML language
+img {
+  float: left;
+}
+```
+</div>
+</br>
+
+<div class="w3-example">
+<h3>Example - No float</h3>
+
+```HTML language
+img {
+  float: none;
+}
+```
+</div>
+</br>
+
+
 
 
 </br>
