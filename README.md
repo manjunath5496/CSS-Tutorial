@@ -2110,7 +2110,8 @@ div.rex {
 </head>
 <body>
 
-<div class="rex">This text is the content of the box. We have added a 50px padding, 20px margin and a 15px green border. </div>
+<div class="rex">This text is the content of the box. We have added a 50px padding, 
+ 20px margin and a 15px green border. </div>
 
 </body>
 </html>
