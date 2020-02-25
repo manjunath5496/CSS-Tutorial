@@ -2330,6 +2330,71 @@ This is a paragraph with a bigger line-height.<br>
 Try it Yourself &raquo; </a></div>
 </br>
 
+<h2>Text Direction</h2>
+<p>The&nbsp;<code class="w3-codespan">direction</code>&nbsp;and&nbsp;<code class="w3-codespan">unicode-bidi</code>&nbsp;properties can be used to change the text direction of an element</p>
+
+</br>
+
+<div class="w3-example">
+<h3>Example</h3>
+
+```HTML language
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+p.ex1 {
+  direction: rtl;
+  unicode-bidi: bidi-override;
+}
+</style>
+</head>
+<body>
+
+<p>This is the default text direction.</p>
+
+<p class="ex1">This is right-to-left text direction.</p>
+
+</body>
+</html>
+
+```
+<a class="w3-btn w3-margin-bottom" href="https://manjunath5496.github.io/html/107.html" target="_blank">
+Try it Yourself &raquo; </a></div>
+</br>
+
+<h2>Word Spacing</h2>
+<p>The&nbsp;<code class="w3-codespan">word-spacing</code>&nbsp;property is used to specify the space between the words in a text.</p>
+</br>
+
+<div class="w3-example">
+<h3>Example</h3>
+
+```HTML language
+h1 {
+  word-spacing: 10px;
+}
+
+h2 {
+  word-spacing: -5px;
+}
+```
+</div>
+</br>
+<h2>Text Shadow</h2>
+<p>The&nbsp;<code class="w3-codespan">text-shadow</code>&nbsp;property adds shadow to text.</p>
+</br>
+
+<div class="w3-example">
+<h3>Example</h3>
+
+```HTML language
+h1 {
+  text-shadow: 3px 2px red;
+}
+```
+</div>
+</br>
 
 
 
