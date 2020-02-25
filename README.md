@@ -958,6 +958,7 @@ Practical Experiences and a Look Ahead</a></li>
   <li><a href="#CSS Lists">CSS Lists</a></li>
    <li><a href="#CSS Float">CSS Float</a></li>
     <li><a href="#CSS Opacity">CSS Opacity</a></li>
+ <li><a href="#CSS Image Sprites">CSS Image Sprites</a></li>
 </ul>
 
 </br>
@@ -3006,11 +3007,49 @@ div.third {
 </div>
 </br>
 
+<h2 id="CSS Image Sprites"> CSS Image Sprites</h2>
 
+<ul>
+<li>An image sprite is a collection of images put into a single image.</li>
+<li>A web page with many images can take a long time to load and generates multiple server requests.</li>
+<li>Using image sprites will reduce the number of server requests and save bandwidth.</li>
+</ul>
 
+</br>
 
+<div class="w3-example">
+<h3>Example </h3>
 
+```HTML language
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+#home {
+  width: 46px;
+  height: 44px;
+  background: url(img_navsprites.gif) 0 0;
+}
 
+#next {
+  width: 43px;
+  height: 44px;
+  background: url(img_navsprites.gif) -91px 0;
+}
+</style>
+</head>
+<body>
+
+<img id="home" src="img_trans.gif" width="1" height="1"><br><br>
+<img id="next" src="img_trans.gif" width="1" height="1">
+
+</body>
+</html>
+
+```
+<a class="w3-btn w3-margin-bottom" href="https://manjunath5496.github.io/html/117.html" target="_blank">
+Try it Yourself &raquo; </a></div>
+</br>
 
 
 
