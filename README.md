@@ -948,7 +948,7 @@ Practical Experiences and a Look Ahead</a></li>
 <li><a href="#CSS Comments">CSS Comments</a></li>
 <li><a href="#CSS Backgrounds">CSS Backgrounds</a></li>
 <li><a href="#CSS Borders">CSS Borders</a></li>
-<li><a href="https://github.com/manjunath5496/HTML-Tutorial#HTML%20Buttons">HTML Buttons</a></li>
+<li><a href="#CSS Margins">CSS Margins</a></li>
 <li><a href="https://github.com/manjunath5496/HTML-Tutorial#HTML%20Lists">HTML Lists</a></li>
 </ul>
 
@@ -1810,8 +1810,40 @@ p.round3 {
 Try it Yourself &raquo; </a></div>
 </br>
 
+<h2 id ="CSS Margins">CSS Margins</h2>
+<p>The CSS&nbsp;<code class="w3-codespan">margin</code>&nbsp;properties are used to create space around elements, outside of any defined borders.</p>
 
+</br>
 
+<div class="w3-example">
+<h3>Example</h3>
+
+```HTML language
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+div.round3 {
+  border: 1px solid black;
+  margin-top: 100px;
+  margin-bottom: 100px;
+  margin-right: 150px;
+  margin-left: 80px;
+  background-color: lightblue;
+}
+</style>
+</head>
+<body>
+
+<div class ="round3">This div element has a top margin of 100px, a right margin of 150px, a bottom margin of 100px, and a left margin of 80px.</div>
+
+</body>
+</html>
+
+```
+<a class="w3-btn w3-margin-bottom" href="https://manjunath5496.github.io/html/97.html" target="_blank">
+Try it Yourself &raquo; </a></div>
+</br>
 
 
 
