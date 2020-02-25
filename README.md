@@ -1638,6 +1638,83 @@ p.three {
 Try it Yourself &raquo; </a></div>
 </br>
 
+<h2>CSS Border Color</h2>
+<p>The&nbsp;<code class="w3-codespan">border-color</code>&nbsp;property is used to set the color of the four borders.</p>
+
+
+</br>
+
+<div class="w3-example">
+<h3>Example</h3>
+
+```HTML language
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+p.one {
+  border-style: solid;
+  border-color: red;
+}
+
+p.two {
+  border-style: solid;
+  border-color: green;
+} 
+
+p.three {
+  border-style: dotted;
+  border-color: blue;
+} 
+</style>
+</head>
+<body>
+
+<p class="one">A solid red border</p>
+<p class="two">A solid green border</p>
+<p class="three">A dotted blue border</p>
+
+
+</body>
+</html>
+
+
+```
+<a class="w3-btn w3-margin-bottom" href="https://manjunath5496.github.io/html/94.html" target="_blank">
+Try it Yourself &raquo; </a></div>
+</br>
+<h2>Specific Side Colors </h2>
+
+</br>
+
+<div class="w3-example">
+<h3>Example</h3>
+
+```HTML language
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+p.one {
+  border-style: solid;
+  border-color: red green blue yellow; 
+}
+</style>
+</head>
+<body>
+
+<p class="one">A solid multicolor border</p>
+
+</body>
+</html>
+
+```
+<a class="w3-btn w3-margin-bottom" href="https://manjunath5496.github.io/html/95.html" target="_blank">
+Try it Yourself &raquo; </a></div>
+</br>
+
+
+
 
 
 
