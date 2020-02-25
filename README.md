@@ -2613,7 +2613,7 @@ Try it Yourself &raquo; </a></div>
 <li>ordered lists (&lt;ol&gt;) - the list items are marked with numbers or letters</li>
 </ul>
 <p>&nbsp;</p>
-<p>Unordered Lists:</p>
+<h2>Unordered Lists:</h2>
 <div class="w3-half w3-container">
 <ul>
 <li>Coffee</li>
