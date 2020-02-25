@@ -2841,6 +2841,67 @@ img {
 </div>
 </br>
 
+<h2>The clear Property</h2>
+<p>The&nbsp;<code class="w3-codespan">clear</code>&nbsp;property specifies what elements can float beside the cleared element and on which side.</p>
+
+</br>
+
+<div class="w3-example">
+<h3>Example - float: right;</h3>
+
+```HTML language
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+.div1 {
+  float: left;
+  width: 100px;
+  height: 50px;
+  margin: 10px;
+  border: 3px solid #73AD21;
+}
+
+.div2 {
+  border: 1px solid red;
+}
+
+.div3 {
+  float: left;
+  width: 100px;
+  height: 50px;
+  margin: 10px;
+  border: 3px solid #73AD21;
+}
+
+.div4 {
+  border: 1px solid red;
+  clear: left;
+}
+</style>
+</head>
+<body>
+
+<div class="div1">div1</div>
+<div class="div2">div2 - Notice that div2 is after div1 in the HTML code. However, since
+ div1 floats to the left, the text in div2 flows around div1.</div>
+<br><br>
+
+<div class="div3">div3</div>
+<div class="div4">div4 - Here, clear: left; moves div4 down below the floating div3. The 
+ value "left" clears elements floated to the left. You can also clear "right" and "both".</div>
+
+</body>
+</html>
+```
+<a class="w3-btn w3-margin-bottom" href="https://manjunath5496.github.io/html/114.html" target="_blank">
+Try it Yourself &raquo; </a></div>
+</br>
+
+
+
+
+
 
 
 
