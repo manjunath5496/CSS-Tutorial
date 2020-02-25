@@ -2964,6 +2964,61 @@ img:hover {
 <a class="w3-btn w3-margin-bottom" href="https://manjunath5496.github.io/html/116.html" target="_blank">
 Try it Yourself &raquo; </a></div>
 </br>
+<h2>Transparent Box</h2>
+
+</br>
+
+<div class="w3-example">
+<h3>Example </h3>
+
+```HTML language
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+div {
+  background-color: #4CAF50;
+  padding: 10px;
+}
+
+div.first {
+  opacity: 0.1;
+}
+
+div.second {
+  opacity: 0.3;
+}
+
+div.third {
+  opacity: 0.6;
+}
+</style>
+</head>
+<body>
+<div class="first"><p>opacity 0.1</p></div>
+<div class="second"><p>opacity 0.3</p></div>
+<div class="third"><p>opacity 0.6</p></div>
+<div><p>opacity 1 (default)</p></div>
+
+</body>
+</html>
+```
+</div>
+</br>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 </br>
