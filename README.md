@@ -1868,7 +1868,8 @@ div.round3 {
 </head>
 <body>
 
-<div class ="round3">This div element has a top margin of 25px, a right margin of 50px, a bottom margin of 75px, and a left margin of 100px.</div>
+<div class ="round3">This div element has a top margin of 25px, a right margin of 50px, 
+ a bottom margin of 75px, and a left margin of 100px.</div>
 
 </body>
 </html>
@@ -1933,9 +1934,40 @@ p.ex1 {
 Try it Yourself &raquo; </a></div>
 </br>
 
+<h2>Margin Collapse</h2>
+
+</br>
+
+<div class="w3-example">
+<h3>Example</h3>
+
+```HTML language
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+h1 {
+  margin: 0 0 50px 0;
+}
+
+h2 {
+  margin: 20px 0 0 0;
+}
+</style>
+</head>
+<body>
+
+<h1>Heading 1</h1>
+<h2>Heading 2</h2>
+
+</body>
+</html>
 
 
-
+```
+<a class="w3-btn w3-margin-bottom" href="https://manjunath5496.github.io/html/100.html" target="_blank">
+Try it Yourself &raquo; </a></div>
+</br>
 
 
 
