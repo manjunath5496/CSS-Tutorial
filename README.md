@@ -2192,8 +2192,77 @@ a {
 </div>
 </br>
 
+<h2>Text Transformation</h2>
+<p>The&nbsp;<code class="w3-codespan">text-transform</code>&nbsp;property is used to specify uppercase and lowercase letters in a text.</p>
 
 
+</br>
+
+<div class="w3-example">
+<h3>Example</h3>
+
+```HTML language
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+p.uppercase {
+  text-transform: uppercase;
+}
+
+p.lowercase {
+  text-transform: lowercase;
+}
+
+p.capitalize {
+  text-transform: capitalize;
+}
+</style>
+</head>
+<body>
+
+<p class="uppercase">This is some text.</p>
+<p class="lowercase">This is some text.</p>
+<p class="capitalize">This is some text.</p>
+
+</body>
+</html>
+```
+<a class="w3-btn w3-margin-bottom" href="https://manjunath5496.github.io/html/104.html" target="_blank">
+Try it Yourself &raquo; </a></div>
+</br>
+
+<h2>Text Indentation</h2>
+<p>The&nbsp;<code class="w3-codespan">text-indent</code>&nbsp;property is used to specify the indentation of the first line of a text.</p>
+
+
+</br>
+
+<div class="w3-example">
+<h3>Example</h3>
+
+```HTML language
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+p {
+  text-indent: 50px;
+}
+</style>
+</head>
+<body>
+
+<p>In my younger and more vulnerable years my father gave me some advice that I have been turning over in 
+ my mind ever since. Whenever you feel like criticizing anyone, he told me, just remember that all the 
+ people in this world have not had the advantages that you have had.</p>
+
+</body>
+</html>
+```
+<a class="w3-btn w3-margin-bottom" href="https://manjunath5496.github.io/html/105.html" target="_blank">
+Try it Yourself &raquo; </a></div>
+</br>
 
 
 
