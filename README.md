@@ -949,7 +949,7 @@ Practical Experiences and a Look Ahead</a></li>
 <li><a href="#CSS Backgrounds">CSS Backgrounds</a></li>
 <li><a href="#CSS Borders">CSS Borders</a></li>
 <li><a href="#CSS Margins">CSS Margins</a></li>
-<li><a href="https://github.com/manjunath5496/HTML-Tutorial#HTML%20Lists">HTML Lists</a></li>
+<li><a href="#CSS Padding">CSS Padding</a></li>
 </ul>
 
 </br>
@@ -1968,7 +1968,71 @@ h2 {
 <a class="w3-btn w3-margin-bottom" href="https://manjunath5496.github.io/html/100.html" target="_blank">
 Try it Yourself &raquo; </a></div>
 </br>
+<h2 id="CSS Padding"> CSS Padding</h2>
 
+<p>The CSS&nbsp;<code class="w3-codespan">padding</code>&nbsp;properties are used to generate space around an element's content, inside of any defined borders.</p>
+
+</br>
+
+<div class="w3-example">
+<h3>Example</h3>
+
+```HTML language
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+div.rex {
+  border: 1px solid black;
+  background-color: lightblue;
+  padding-top: 50px;
+  padding-right: 30px;
+  padding-bottom: 50px;
+  padding-left: 80px;
+}
+</style>
+</head>
+<body>
+
+<div class ="rex">This div element has a top padding of 50px, a right padding of 30px, 
+ a bottom padding of 50px, and a left padding of 80px.</div>
+
+</body>
+</html>
+```
+<a class="w3-btn w3-margin-bottom" href="https://manjunath5496.github.io/html/101.html" target="_blank">
+Try it Yourself &raquo; </a></div>
+</br>
+<h2>Padding - Shorthand Property</h2>
+
+</br>
+
+<div class="w3-example">
+<h3>Example</h3>
+
+```HTML language
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+div.rex {
+   border: 1px solid black;
+  padding: 25px 50px 75px 100px;
+  background-color: lightblue;
+}
+</style>
+</head>
+<body>
+
+<div class ="rex">This div element has a top padding of 25px, a right padding of 50px, 
+ a bottom padding of 75px, and a left padding of 100px.</div>
+
+</body>
+</html>
+```
+<a class="w3-btn w3-margin-bottom" href="https://manjunath5496.github.io/html/102.html" target="_blank">
+Try it Yourself &raquo; </a></div>
+</br>
 
 
 
