@@ -953,6 +953,7 @@ Practical Experiences and a Look Ahead</a></li>
  <li><a href="#CSS Height and Width">CSS Height and Width</a></li>
   <li><a href="#CSS Box Model">CSS Box Model</a></li>
    <li><a href="#CSS Text">CSS Text</a></li>
+  <li><a href="#CSS Fonts">CSS Fonts</a></li> 
 </ul>
 
 </br>
@@ -2395,6 +2396,137 @@ h1 {
 ```
 </div>
 </br>
+
+<h2 id="CSS Fonts">CSS Fonts </h2>
+
+<h2>Font Family</h2>
+
+</br>
+
+<div class="w3-example">
+<h3>Example</h3>
+
+```HTML language
+p {
+  font-family: "Times New Roman", Times, serif;
+}
+```
+</div>
+</br>
+
+<h2>Font Style</h2>
+
+</br>
+
+<div class="w3-example">
+<h3>Example</h3>
+
+```HTML language
+p.normal {
+  font-style: normal;
+}
+
+p.italic {
+  font-style: italic;
+}
+
+p.oblique {
+  font-style: oblique;
+}
+```
+</div>
+</br>
+
+</br>
+
+<h2>Font Size</h2>
+
+</br>
+
+<div class="w3-example">
+<h3>Example</h3>
+
+```HTML language
+h1 {
+  font-size: 40px;
+}
+
+h2 {
+  font-size: 30px;
+}
+
+p {
+  font-size: 14px;
+}
+```
+</div>
+</br>
+
+<div class="w3-example">
+<h3>Example</h3>
+
+```HTML language
+h1 {
+  font-size: 2.5em;
+}
+
+h2 {
+  font-size: 1.875em; 
+}
+
+p {
+  font-size: 0.875em; 
+}
+```
+</div>
+</br>
+
+</br>
+
+<div class="w3-example">
+<h3>Example</h3>
+
+```HTML language
+body {
+  font-size: 100%;
+}
+
+h1 {
+  font-size: 2.5em;
+}
+
+h2 {
+  font-size: 1.875em;
+}
+
+p {
+  font-size: 0.875em;
+}
+```
+</div>
+</br>
+
+<h2>Font Weight</h2>
+<p>The&nbsp;<code class="w3-codespan">font-weight</code>&nbsp;property specifies the weight of a font</p>
+
+</br>
+
+<div class="w3-example">
+<h3>Example</h3>
+
+```HTML language
+p.normal {
+  font-weight: normal;
+}
+
+p.thick {
+  font-weight: bold;
+}
+```
+</div>
+</br>
+
+
 
 
 
