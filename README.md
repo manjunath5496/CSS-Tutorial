@@ -1760,6 +1760,59 @@ p.one {
 </div>
 </br>
 
+<h2>CSS Rounded Borders</h2>
+<p>The&nbsp;<code class="w3-codespan">border-radius</code>&nbsp;property is used to add rounded borders to an element:</p>
+
+</br>
+
+<div class="w3-example">
+<h3>Example</h3>
+
+```HTML language
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+p.normal {
+  border: 2px solid red;
+}
+
+p.round1 {
+  border: 2px solid red;
+  border-radius: 5px;
+}
+
+p.round2 {
+  border: 2px solid red;
+  border-radius: 8px;
+}
+
+p.round3 {
+  border: 2px solid red;
+  border-radius: 12px;
+}
+</style>
+</head>
+<body>
+
+
+<p class="normal">Normal border</p>
+<p class="round1">Round border</p>
+<p class="round2">Rounder border</p>
+<p class="round3">Roundest border</p>
+
+</body>
+</html>
+
+
+```
+<a class="w3-btn w3-margin-bottom" href="https://manjunath5496.github.io/html/96.html" target="_blank">
+Try it Yourself &raquo; </a></div>
+</br>
+
+
+
+
 
 
 
