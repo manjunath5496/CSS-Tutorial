@@ -947,7 +947,7 @@ Practical Experiences and a Look Ahead</a></li>
 <li><a href="#CSS Selectors">CSS Selectors</a></li>
 <li><a href="#CSS Comments">CSS Comments</a></li>
 <li><a href="#CSS Backgrounds">CSS Backgrounds</a></li>
-<li><a href="https://github.com/manjunath5496/HTML-Tutorial#HTML%20Images">HTML Images</a></li>
+<li><a href="#CSS Borders">CSS Borders</a></li>
 <li><a href="https://github.com/manjunath5496/HTML-Tutorial#HTML%20Buttons">HTML Buttons</a></li>
 <li><a href="https://github.com/manjunath5496/HTML-Tutorial#HTML%20Lists">HTML Lists</a></li>
 </ul>
@@ -1483,6 +1483,59 @@ body {
 <a class="w3-btn w3-margin-bottom" href="https://manjunath5496.github.io/html/90.html" target="_blank">
 Try it Yourself &raquo; </a></div>
 </br>
+
+<h2 id="CSS Borders">CSS Borders </h2>
+<h2>CSS Border Style</h2>
+<p>The&nbsp;<code class="w3-codespan">border-style</code>&nbsp;property specifies what kind of border to display.</p>
+</br>
+
+<div class="w3-example">
+<h3>Example</h3>
+
+```HTML language
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+p.dotted {border-style: dotted;}
+p.dashed {border-style: dashed;}
+p.solid {border-style: solid;}
+p.double {border-style: double;}
+p.groove {border-style: groove;}
+p.ridge {border-style: ridge;}
+p.inset {border-style: inset;}
+p.outset {border-style: outset;}
+p.none {border-style: none;}
+p.hidden {border-style: hidden;}
+p.mix {border-style: dotted dashed solid double;}
+</style>
+</head>
+<body>
+
+<h2>The border-style Property</h2>
+
+<p class="dotted">A dotted border.</p>
+<p class="dashed">A dashed border.</p>
+<p class="solid">A solid border.</p>
+<p class="double">A double border.</p>
+<p class="groove">A groove border.</p>
+<p class="ridge">A ridge border.</p>
+<p class="inset">An inset border.</p>
+<p class="outset">An outset border.</p>
+<p class="none">No border.</p>
+<p class="hidden">A hidden border.</p>
+<p class="mix">A mixed border.</p>
+
+</body>
+</html>
+```
+<a class="w3-btn w3-margin-bottom" href="https://manjunath5496.github.io/html/91.html" target="_blank">
+Try it Yourself &raquo; </a></div>
+</br>
+
+
+
+
 
 
 
