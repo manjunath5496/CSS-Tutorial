@@ -954,6 +954,7 @@ Practical Experiences and a Look Ahead</a></li>
   <li><a href="#CSS Box Model">CSS Box Model</a></li>
    <li><a href="#CSS Text">CSS Text</a></li>
   <li><a href="#CSS Fonts">CSS Fonts</a></li> 
+ <li><a href="#CSS Icons">CSS Icons</a></li> 
 </ul>
 
 </br>
@@ -2561,6 +2562,52 @@ p.small {
 <a class="w3-btn w3-margin-bottom" href="https://manjunath5496.github.io/html/108.html" target="_blank">
 Try it Yourself &raquo; </a></div>
 </br>
+
+<h2 id="CSS Icons">CSS&nbsp;<span class="color_h1">Icons</span></h2>
+<ul>
+<li>The simplest way to add an icon to your HTML page, is with an icon library, such as Font Awesome.</li>
+<li>Add the name of the specified icon class to any inline HTML element (like&nbsp;<code class="w3-codespan">&lt;i&gt;</code>&nbsp;or&nbsp;<code class="w3-codespan">&lt;span&gt;</code>).</li>
+<li>All the icons in the icon libraries below, are scalable vectors that can be customized with CSS (size, color, shadow, etc.)</li>
+</ul>
+
+</br>
+
+<div class="w3-example">
+<h3>Example</h3>
+
+```HTML language
+<!DOCTYPE html>
+<html>
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+</head>
+<body>
+
+<p>Some Font Awesome icons:</p>
+<i class="fa fa-cloud"></i>
+<i class="fa fa-heart"></i>
+<i class="fa fa-car"></i>
+<i class="fa fa-file"></i>
+<i class="fa fa-bars"></i>
+
+<p>Styled Font Awesome icons (size and color):</p>
+<i class="fa fa-cloud" style="font-size:24px;"></i>
+<i class="fa fa-cloud" style="font-size:36px;"></i>
+<i class="fa fa-cloud" style="font-size:48px;color:red;"></i>
+<i class="fa fa-cloud" style="font-size:60px;color:lightblue;"></i>
+
+</body>
+</html>
+
+```
+<a class="w3-btn w3-margin-bottom" href="https://manjunath5496.github.io/html/109.html" target="_blank">
+Try it Yourself &raquo; </a></div>
+</br>
+
+
+
+
 
 
 
