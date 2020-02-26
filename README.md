@@ -3729,7 +3729,7 @@ Try it Yourself &raquo; </a></div>
 
 #grad2 {
   height: 100px;
-  background-color: red; 
+  background-color: red;  /* For browsers that do not support gradients */
   background-image: linear-gradient(90deg, red, yellow); 
 }
 
