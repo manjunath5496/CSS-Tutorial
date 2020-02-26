@@ -3848,6 +3848,7 @@ Try it Yourself &raquo; </a></div>
 </br>
 <ul>
 <li><a href="https://github.com/manjunath5496/CSS-Tutorial/blob/master/css.pdf">CSS Cheat Sheet</a></li>
+ <li><a href="https://manjunath5496.github.io/css/index.html">CSS For Beginners </a></li>
 </ul>
 </br>
 
