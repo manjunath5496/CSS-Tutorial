@@ -962,6 +962,7 @@ Practical Experiences and a Look Ahead</a></li>
   <li><a href="#CSS Border Images">CSS Border Images</a></li>
  <li><a href="#CSS Media Queries">CSS Media Queries</a></li>
   <li><a href="#CSS Buttons">CSS Buttons</a></li>
+   <li><a href="#CSS Text Effects">CSS Text Effects</a></li>
 </ul>
 
 </br>
@@ -3484,12 +3485,160 @@ Try it Yourself &raquo; </a></div>
 Try it Yourself &raquo; </a></div>
 </br>
 
+<h2 id ="CSS Text Effects">CSS&nbsp;<span class="color_h1">Text Effects</span></h2>
+<h2>CSS Text Overflow</h2>
+<p>The CSS&nbsp;<code class="w3-codespan">text-overflow</code>&nbsp;property specifies how overflowed content that is not displayed should be signaled to the user.</p>
+
+</br>
+
+<div class="w3-example">
+<h3>Example </h3>
+
+```HTML language
+<!DOCTYPE html>
+<html>
+<head>
+<style> 
+p.test1 {
+  white-space: nowrap; 
+  width: 200px; 
+  border: 1px solid #000000;
+  overflow: hidden;
+  text-overflow: clip;
+}
+
+p.test2 {
+  white-space: nowrap; 
+  width: 200px; 
+  border: 1px solid #000000;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+</style>
+</head>
+<body>
 
 
+<p class="test1">This is some long text that will not fit in the box</p>
+
+<p class="test2">This is some long text that will not fit in the box</p>
+
+</body>
+</html>
+
+```
+<a class="w3-btn w3-margin-bottom" href="https://manjunath5496.github.io/html/126.html" target="_blank">
+Try it Yourself &raquo; </a></div>
+</br>
+<h2>CSS Word Wrapping </h2>
+<p>The CSS&nbsp;<code class="w3-codespan">word-wrap</code>&nbsp;property allows long words to be able to be broken and wrap onto the next line.&nbsp;</p>
+
+</br>
+
+<div class="w3-example">
+<h3>Example </h3>
+
+```HTML language
+<!DOCTYPE html>
+<html>
+<head>
+<style> 
+p.test {
+  width: 11em; 
+  border: 1px solid #000000;
+  word-wrap: break-word;
+}
+</style>
+</head>
+<body>
+
+<p class="test"> This paragraph contains a very long word: thisisaveryveryveryveryveryverylongword. 
+ The long word will break and wrap to the next line.</p>
+
+</body>
+</html>
+```
+<a class="w3-btn w3-margin-bottom" href="https://manjunath5496.github.io/html/127.html" target="_blank">
+Try it Yourself &raquo; </a></div>
+</br>
+
+<h2>CSS Word Breaking</h2>
+<p>The CSS&nbsp;<code class="w3-codespan">word-break</code>&nbsp;property specifies line breaking rules.</p>
+
+</br>
+
+<div class="w3-example">
+<h3>Example </h3>
+
+```HTML language
+<!DOCTYPE html>
+<html>
+<head>
+<style> 
+p.test1 {
+  width: 140px; 
+  border: 1px solid #000000;
+  word-break: keep-all;
+}
+
+p.test2 {
+  width: 140px; 
+  border: 1px solid #000000;
+  word-break: break-all;
+}
+</style>
+</head>
+<body>
+<p class="test1">This paragraph contains some text. This line will-break-at-hyphens.</p>
+<p class="test2">This paragraph contains some text. The lines will break at any character.</p>
+</body>
+</html>
+```
+<a class="w3-btn w3-margin-bottom" href="https://manjunath5496.github.io/html/128.html" target="_blank">
+Try it Yourself &raquo; </a></div>
+</br>
+
+<h2>CSS Writing Mode</h2>
+<p>The CSS&nbsp;<code class="w3-codespan">writing-mode</code>&nbsp;property specifies whether lines of text are laid out horizontally or vertically.</p>
+
+</br>
+
+<div class="w3-example">
+<h3>Example </h3>
+
+```HTML language
+<!DOCTYPE html>
+<html>
+<head>
+<style> 
+p.test1 {
+  writing-mode: horizontal-tb; 
+}
+
+span.test2 {
+  writing-mode: vertical-rl; 
+}
+
+p.test2 {
+  writing-mode: vertical-rl; 
+}
+</style>
+</head>
+<body>
 
 
+<p class="test1">Some text with default writing-mode.</p>
 
+<p>Some text with a span element with a <span class="test2">vertical-rl</span> writing-mode.</p>
 
+<p class="test2">Some text with writing-mode: vertical-rl.</p>
+
+</body>
+</html>
+```
+<a class="w3-btn w3-margin-bottom" href="https://manjunath5496.github.io/html/129.html" target="_blank">
+Try it Yourself &raquo; </a></div>
+</br>
 
 
 
