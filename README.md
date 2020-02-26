@@ -963,6 +963,7 @@ Practical Experiences and a Look Ahead</a></li>
  <li><a href="#CSS Media Queries">CSS Media Queries</a></li>
   <li><a href="#CSS Buttons">CSS Buttons</a></li>
    <li><a href="#CSS Text Effects">CSS Text Effects</a></li>
+    <li><a href="#CSS Gradients">CSS Gradients</a></li>
 </ul>
 
 </br>
@@ -3639,6 +3640,16 @@ p.test2 {
 <a class="w3-btn w3-margin-bottom" href="https://manjunath5496.github.io/html/129.html" target="_blank">
 Try it Yourself &raquo; </a></div>
 </br>
+<h2 id="CSS Gradients">CSS Gradients </h2>
+
+<p>CSS gradients let you display smooth transitions between two or more specified colors.</p>
+<p>CSS defines two types of gradients:</p>
+<ul>
+<li><strong>Linear Gradients (goes down/up/left/right/diagonally)</strong></li>
+<li><strong>Radial Gradients (defined by their center)</strong></li>
+</ul>
+
+
 
 
 
