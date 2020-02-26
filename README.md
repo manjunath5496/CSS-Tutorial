@@ -3709,8 +3709,46 @@ Try it Yourself &raquo; </a></div>
 Try it Yourself &raquo; </a></div>
 </br>
 
+<p>The following example shows how to use angles on linear gradients:</p>
+
+</br>
+
+<div class="w3-example">
+<h3>Example </h3>
+
+```HTML language
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+#grad1 {
+  height: 100px;
+  background-color: red; 
+  background-image: linear-gradient(0deg, red, yellow); 
+}
+
+#grad2 {
+  height: 100px;
+  background-color: red; 
+  background-image: linear-gradient(90deg, red, yellow); 
+}
 
 
+</style>
+</head>
+<body>
+
+
+<div id="grad1" style="text-align:center;">0deg</div><br>
+<div id="grad2" style="text-align:center;">90deg</div><br>
+
+
+</body>
+</html>
+```
+<a class="w3-btn w3-margin-bottom" href="https://manjunath5496.github.io/html/132.html" target="_blank">
+Try it Yourself &raquo; </a></div>
+</br>
 
 
 
