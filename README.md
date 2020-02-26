@@ -3645,11 +3645,11 @@ Try it Yourself &raquo; </a></div>
 <p>CSS gradients let you display smooth transitions between two or more specified colors.</p>
 <p>CSS defines two types of gradients:</p>
 <ul>
-<li><strong>Linear Gradients </strong></li>
+ <li><strong><span href="#Linear Gradients"> Linear Gradients </span></strong></li>
 <li><strong>Radial Gradients </strong></li>
 </ul>
 </br>
-<h2>CSS Linear Gradients</h2>
+<h2 id ="Linear Gradients">CSS Linear Gradients</h2>
 
 </br>
 
