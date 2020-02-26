@@ -961,6 +961,7 @@ Practical Experiences and a Look Ahead</a></li>
  <li><a href="#CSS Image Sprites">CSS Image Sprites</a></li>
   <li><a href="#CSS Border Images">CSS Border Images</a></li>
  <li><a href="#CSS Media Queries">CSS Media Queries</a></li>
+  <li><a href="#CSS Buttons">CSS Buttons</a></li>
 </ul>
 
 </br>
@@ -3195,7 +3196,7 @@ Try it Yourself &raquo; </a></div>
 Try it Yourself &raquo; </a></div>
 </br>
 
-
+<h2 id="CSS Buttons">CSS Buttons </h2>
 
 
 
