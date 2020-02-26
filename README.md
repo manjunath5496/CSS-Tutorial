@@ -3088,7 +3088,7 @@ Try it Yourself &raquo; </a></div>
 Try it Yourself &raquo; </a></div>
 </br>
 
-<h2 id ="CSS Media Queries">CSS Media Queries <h2>
+<h2 id ="CSS Media Queries">CSS Media Queries </h2>
 
 <p><span class="color_h1">The following example changes the background-color to lightgreen if the viewport is 480 pixels wide or wider (if the viewport is less than 480 pixels, the background-color will be pink):</span></p>
 </br>
@@ -3123,7 +3123,9 @@ body {
 Try it Yourself &raquo; </a></div>
 </br>
 
-<p>The following example shows a menu that will float to the left of the page if the viewport is 480 pixels wide or wider (if the viewport is less than 480 pixels, the menu will be on top of the content):</p>
+<p>The following example shows a menu that will float to the left of the 
+ page if the viewport is 480 pixels wide or wider (if the viewport is 
+ less than 480 pixels, the menu will be on top of the content):</p>
 
 </br>
 
