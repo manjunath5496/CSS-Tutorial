@@ -960,6 +960,7 @@ Practical Experiences and a Look Ahead</a></li>
     <li><a href="#CSS Opacity">CSS Opacity</a></li>
  <li><a href="#CSS Image Sprites">CSS Image Sprites</a></li>
   <li><a href="#CSS Border Images">CSS Border Images</a></li>
+ <li><a href="#CSS Media Queries">CSS Media Queries</a></li>
 </ul>
 
 </br>
@@ -3084,6 +3085,109 @@ Try it Yourself &raquo; </a></div>
 
 ```
 <a class="w3-btn w3-margin-bottom" href="https://manjunath5496.github.io/html/118.html" target="_blank">
+Try it Yourself &raquo; </a></div>
+</br>
+
+<h2 id ="CSS Media Queries">CSS Media Queries <h2>
+
+<p><span class="color_h1">The following example changes the background-color to lightgreen if the viewport is 480 pixels wide or wider (if the viewport is less than 480 pixels, the background-color will be pink):</span></p>
+</br>
+
+<div class="w3-example">
+<h3>Example </h3>
+
+```HTML language
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+body {
+  background-color: pink;
+}
+
+@media screen and (min-width: 480px) {
+  body {
+    background-color: lightgreen;
+  }
+}
+</style>
+</head>
+<body>
+
+<p>The media query will only apply if the media type is screen and the viewport is 480px wide or wider.</p>
+
+</body>
+</html>
+```
+<a class="w3-btn w3-margin-bottom" href="https://manjunath5496.github.io/html/119.html" target="_blank">
+Try it Yourself &raquo; </a></div>
+</br>
+
+<p>The following example shows a menu that will float to the left of the page if the viewport is 480 pixels wide or wider (if the viewport is less than 480 pixels, the menu will be on top of the content):</p>
+
+</br>
+
+<div class="w3-example">
+<h3>Example </h3>
+
+```HTML language
+<!DOCTYPE html>
+<html>
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<style>
+.wrapper {overflow: auto;}
+
+#main {margin-left: 4px;}
+
+#leftsidebar {
+  float: none;
+  width: auto;
+}
+
+#menulist {
+  margin: 0;
+  padding: 0;
+}
+
+.menuitem {
+  background: #CDF0F6;
+  border: 1px solid #d4d4d4;
+  border-radius: 4px;
+  list-style-type: none;
+  margin: 4px;
+  padding: 2px;
+}
+
+@media screen and (min-width: 480px) {
+  #leftsidebar {width: 200px; float: left;}
+  #main {margin-left: 216px;}
+}
+</style>
+</head>
+<body>
+
+<div class="wrapper">
+  <div id="leftsidebar">
+    <ul id="menulist">
+      <li class="menuitem">Menu-item 1</li>
+      <li class="menuitem">Menu-item 2</li>
+      <li class="menuitem">Menu-item 3</li>
+      <li class="menuitem">Menu-item 4</li>
+      <li class="menuitem">Menu-item 5</li>
+    </ul>
+  </div>
+  
+  <div id="main">
+    <p>This example shows a menu that will float to the left of the page if the viewport is 480 pixels wide or wider. If the viewport is less than 480 pixels, the menu will be on top of the content.</p>
+  </div>
+</div>
+
+</body>
+</html>
+
+```
+<a class="w3-btn w3-margin-bottom" href="https://manjunath5496.github.io/html/120.html" target="_blank">
 Try it Yourself &raquo; </a></div>
 </br>
 
