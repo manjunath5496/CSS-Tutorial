@@ -3318,7 +3318,7 @@ Try it Yourself &raquo; </a></div>
 <h3>Example </h3>
 
 ```HTML language
- border: 2px solid black;
+ .button1 {border: 2px solid black;}
 ```
 </div>
 </br>
