@@ -3645,9 +3645,73 @@ Try it Yourself &raquo; </a></div>
 <p>CSS gradients let you display smooth transitions between two or more specified colors.</p>
 <p>CSS defines two types of gradients:</p>
 <ul>
-<li><strong>Linear Gradients (goes down/up/left/right/diagonally)</strong></li>
-<li><strong>Radial Gradients (defined by their center)</strong></li>
+<li><strong>Linear Gradients </strong></li>
+<li><strong>Radial Gradients </strong></li>
 </ul>
+</br>
+<h2>CSS Linear Gradients</h2>
+
+</br>
+
+<div class="w3-example">
+<h3>Example </h3>
+
+```HTML language
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+#grad1 {
+  height: 200px;
+  background-color: red; 
+  background-image: linear-gradient(red, yellow);  
+}
+</style>
+</head>
+<body>
+
+<h1 id="grad1">Linear Gradient - Top to Bottom</h1>
+
+</body>
+</html>
+
+```
+<a class="w3-btn w3-margin-bottom" href="https://manjunath5496.github.io/html/130.html" target="_blank">
+Try it Yourself &raquo; </a></div>
+
+
+</br>
+
+<div class="w3-example">
+<h3>Example </h3>
+
+```HTML language
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+#grad1 {
+  height: 200px;
+  background-color: red; 
+  background-image: linear-gradient(to right, red , yellow);  
+}
+</style>
+</head>
+<body>
+
+<h1 id="grad1">Linear Gradient - Left to Right</h1>
+
+</body>
+</html>
+
+```
+<a class="w3-btn w3-margin-bottom" href="https://manjunath5496.github.io/html/131.html" target="_blank">
+Try it Yourself &raquo; </a></div>
+</br>
+
+
+
+
 
 
 
