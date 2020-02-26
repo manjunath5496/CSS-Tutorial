@@ -3783,10 +3783,69 @@ Try it Yourself &raquo; </a></div>
 </br>
 
 
+</br>
+
+<div class="w3-example">
+<h3>Example </h3>
+
+```HTML language
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+#grad1 {
+  height: 150px;
+  width: 200px;
+  background-color: red; /* For browsers that do not support gradients */
+  background-image: radial-gradient(red 5%, yellow 15%, green 60%); 
+}
+</style>
+</head>
+<body>
+
+<p id="grad1">Radial Gradient - Differently Spaced Color Stops</p>
 
 
 
+</body>
+</html>
 
+```
+<a class="w3-btn w3-margin-bottom" href="https://manjunath5496.github.io/html/134.html" target="_blank">
+Try it Yourself &raquo; </a></div>
+</br>
+
+<p>The following example shows a radial gradient with the shape of a circle:</p>
+
+</br>
+
+<div class="w3-example">
+<h3>Example </h3>
+
+```HTML language
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+#grad2 {
+  height: 150px;
+  width: 200px;
+  background-color: red; /* For browsers that do not support gradients */
+  background-image: radial-gradient(circle, red, yellow, green); 
+}
+</style>
+</head>
+<body>
+
+<p id="grad2"><strong>Circle:</strong></p>
+
+</body>
+</html>
+
+```
+<a class="w3-btn w3-margin-bottom" href="https://manjunath5496.github.io/html/135.html" target="_blank">
+Try it Yourself &raquo; </a></div>
+</br>
 
 
 </br>
