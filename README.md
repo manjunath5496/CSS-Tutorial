@@ -3198,6 +3198,131 @@ Try it Yourself &raquo; </a></div>
 
 <h2 id="CSS Buttons">CSS Buttons </h2>
 
+<h2>Button Colors</h2>
+<p>Use the&nbsp;<code class="w3-codespan">background-color</code>&nbsp;property to change the background color of a button:</p>
+</br>
+
+<div class="w3-example">
+<h3>Example </h3>
+
+```HTML language
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+.button {
+  background-color: #4CAF50; 
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+}
+
+.button2 {background-color: #008CBA;} 
+
+</style>
+</head>
+<body>
+
+
+<button class="button">Green</button>
+<button class="button button2">Blue</button>
+
+
+</body>
+</html>
+```
+<a class="w3-btn w3-margin-bottom" href="https://manjunath5496.github.io/html/121.html" target="_blank">
+Try it Yourself &raquo; </a></div>
+</br>
+
+<h2>Button Sizes</h2>
+<p>Use the&nbsp;<code class="w3-codespan">font-size</code>&nbsp;property to change the font size of a button:</p>
+
+</br>
+
+<div class="w3-example">
+<h3>Example </h3>
+
+```HTML language
+
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+.button {
+  background-color: #4CAF50; 
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  margin: 4px 2px;
+  cursor: pointer;
+}
+
+.button1 {font-size: 10px;}
+
+</style>
+</head>
+<body>
+
+<button class="button button1">10px</button>
+ 
+</body>
+</html>
+```
+<a class="w3-btn w3-margin-bottom" href="https://manjunath5496.github.io/html/122.html" target="_blank">
+Try it Yourself &raquo; </a></div>
+</br>
+
+<p>Use the&nbsp;<code class="w3-codespan">padding</code>&nbsp;property to change the padding of a button:</p>
+
+
+</br>
+
+<div class="w3-example">
+<h3>Example </h3>
+
+```HTML language
+.button1 {padding: 10px 24px;}
+```
+</div>
+</br>
+
+<p>Use the&nbsp;<code class="w3-codespan">border-radius</code>&nbsp;property to add rounded corners to a button:</p>
+
+
+</br>
+
+<div class="w3-example">
+<h3>Example </h3>
+
+```HTML language
+.button1 {border-radius: 2px;}
+```
+</div>
+</br>
+
+<p>Use the&nbsp;<code class="w3-codespan">border</code>&nbsp;property to add a colored border to a button:</p>
+
+</br>
+
+<div class="w3-example">
+<h3>Example </h3>
+
+```HTML language
+ border: 2px solid black;
+```
+</div>
+</br>
+
 
 
 
