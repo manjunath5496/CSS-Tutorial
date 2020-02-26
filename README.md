@@ -3323,6 +3323,22 @@ Try it Yourself &raquo; </a></div>
 </div>
 </br>
 
+<p>Use the&nbsp;<code class="w3-codespan">width</code>&nbsp;property to change the width of a button:</p>
+
+</br>
+
+<div class="w3-example">
+<h3>Example </h3>
+
+```HTML language
+.button1 {width: 250px;}
+```
+</div>
+</br>
+
+
+
+
 <h2>Hoverable Buttons</h2>
 
 </br>
