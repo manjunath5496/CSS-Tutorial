@@ -3739,8 +3739,8 @@ Try it Yourself &raquo; </a></div>
 <body>
 
 
-<div id="grad1" style="text-align:center;">0deg</div><br>
-<div id="grad2" style="text-align:center;">90deg</div><br>
+<h1 id="grad1" style="text-align:center;">0deg</h1><br>
+<p id="grad2" style="text-align:center;">90deg</p><br>
 
 
 </body>
