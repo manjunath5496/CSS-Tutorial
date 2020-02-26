@@ -3181,7 +3181,9 @@ Try it Yourself &raquo; </a></div>
   </div>
   
   <div id="main">
-    <p>This example shows a menu that will float to the left of the page if the viewport is 480 pixels wide or wider. If the viewport is less than 480 pixels, the menu will be on top of the content.</p>
+    <p>This example shows a menu that will float to the left of the page 
+     if the viewport is 480 pixels wide or wider. If the viewport is less than 480 pixels, 
+     the menu will be on top of the content.</p>
   </div>
 </div>
 
