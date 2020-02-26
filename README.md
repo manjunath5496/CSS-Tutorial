@@ -3646,7 +3646,7 @@ Try it Yourself &raquo; </a></div>
 <p>CSS defines two types of gradients:</p>
 <ul>
  <li><a href="#Linear Gradients">Linear Gradients </a></li>
-<li><strong>Radial Gradients </strong></li>
+<li><a href="#Radial Gradients">Radial Gradients </a></li>
 </ul>
 </br>
 <h2 id ="Linear Gradients">CSS Linear Gradients</h2>
@@ -3663,7 +3663,7 @@ Try it Yourself &raquo; </a></div>
 <style>
 #grad1 {
   height: 200px;
-  background-color: red; 
+  background-color: red; /* For browsers that do not support gradients */
   background-image: linear-gradient(red, yellow);  
 }
 </style>
@@ -3692,7 +3692,7 @@ Try it Yourself &raquo; </a></div>
 <style>
 #grad1 {
   height: 200px;
-  background-color: red; 
+  background-color: red; /* For browsers that do not support gradients */
   background-image: linear-gradient(to right, red , yellow);  
 }
 </style>
@@ -3723,7 +3723,7 @@ Try it Yourself &raquo; </a></div>
 <style>
 #grad1 {
   height: 100px;
-  background-color: red; 
+  background-color: red; /* For browsers that do not support gradients */
   background-image: linear-gradient(0deg, red, yellow); 
 }
 
@@ -3749,6 +3749,40 @@ Try it Yourself &raquo; </a></div>
 <a class="w3-btn w3-margin-bottom" href="https://manjunath5496.github.io/html/132.html" target="_blank">
 Try it Yourself &raquo; </a></div>
 </br>
+
+<h2 id="Radial Gradients">CSS Radial Gradients </h2>
+
+</br>
+
+<div class="w3-example">
+<h3>Example </h3>
+
+```HTML language
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+#grad1 {
+  height: 150px;
+  width: 200px;
+  background-color: red; /* For browsers that do not support gradients */
+  background-image: radial-gradient(red, yellow, green); 
+}
+</style>
+</head>
+<body>
+
+<p id="grad1">Radial Gradient - Evenly Spaced Color Stops</p>
+
+
+</body>
+</html>
+```
+<a class="w3-btn w3-margin-bottom" href="https://manjunath5496.github.io/html/133.html" target="_blank">
+Try it Yourself &raquo; </a></div>
+</br>
+
+
 
 
 
