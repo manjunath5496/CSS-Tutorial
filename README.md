@@ -3849,6 +3849,10 @@ Try it Yourself &raquo; </a></div>
 <ul>
 <li><a href="https://github.com/manjunath5496/CSS-Tutorial/blob/master/css.pdf">CSS Cheat Sheet</a></li>
  <li><a href="https://manjunath5496.github.io/css/index.html">CSS For Beginners </a></li>
+  <li><a href="https://github.com/manjunath5496/CSS-Tutorial/blob/master/cds(1).pdf">Cascading Style Sheets Level 2 Revision 1 (CSS 2.1) Specification </a></li>
+  <li><a href="https://github.com/manjunath5496/CSS-Tutorial/blob/master/cds(2).pdf">Top 50 CSS Interview Questions </a></li>
+ 
+ 
 </ul>
 </br>
 
